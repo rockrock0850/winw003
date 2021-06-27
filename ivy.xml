@@ -1,0 +1,56 @@
+<ivy-module version="2.0">
+	<info organisation="org.apache" module="WebProject" />
+	
+	<configurations>
+        <conf name="compile" description="Required to compile application"/>
+        <conf name="runtime" description="Additional run-time dependencies" extends="compile"/>
+        <conf name="test"    description="Required for test only" extends="runtime"/>
+    </configurations>
+
+	<dependencies>
+		<dependency org="jstl" name="jstl" rev="1.2" conf="compile->default"/>
+		<dependency org="javax.validation" name="validation-api" rev="2.0.1.Final" conf="compile->default"/>
+		<dependency org="org.logback-extensions" name="logback-ext-spring" rev="0.1.4" conf="compile->default"/>
+		<dependency org="ch.qos.logback" name="logback-core" rev="1.2.3" conf="compile->default"/>
+		<dependency org="ch.qos.logback" name="logback-classic" rev="1.2.3" conf="compile->default"/>
+		<dependency org="org.springframework" name="spring-core" rev="4.3.23.RELEASE" conf="compile->default"/>
+		<dependency org="org.springframework" name="spring-beans" rev="4.3.23.RELEASE" conf="compile->default"/>
+		<dependency org="org.springframework" name="spring-context" rev="4.3.23.RELEASE" conf="compile->default"/>
+		<dependency org="org.springframework" name="spring-web" rev="4.3.23.RELEASE" conf="compile->default"/>
+		<dependency org="org.springframework" name="spring-webmvc" rev="4.3.23.RELEASE" conf="compile->default"/>
+		<dependency org="org.springframework" name="spring-aop" rev="4.3.23.RELEASE" conf="compile->default"/>
+		<dependency org="org.springframework" name="spring-aspects" rev="4.3.23.RELEASE" conf="compile->default"/>
+		<dependency org="org.springframework" name="spring-tx" rev="4.3.23.RELEASE" conf="compile->default"/>
+		<dependency org="org.springframework" name="spring-jdbc" rev="4.3.23.RELEASE" conf="compile->default"/>
+		<dependency org="org.springframework" name="spring-orm" rev="4.3.23.RELEASE" conf="compile->default"/>
+		<dependency org="org.springframework" name="spring-context-support" rev="4.3.23.RELEASE" conf="compile->default"/>
+		<dependency org="org.springframework.data" name="spring-data-jpa" rev="2.1.5.RELEASE" conf="compile->default"/>
+		<dependency org="org.springframework.security" name="spring-security-core" rev="4.2.11.RELEASE" conf="compile->default"/>
+		<dependency org="org.springframework.security" name="spring-security-web" rev="4.2.11.RELEASE" conf="compile->default"/>
+		<dependency org="org.springframework.security" name="spring-security-config" rev="4.2.11.RELEASE" conf="compile->default"/>
+		<dependency org="org.hibernate" name="hibernate-core" rev="5.4.1.Final" conf="compile->default"/>
+		<dependency org="org.hibernate" name="hibernate-entitymanager" rev="5.4.1.Final" conf="compile->default"/>
+		<dependency org="org.hibernate" name="hibernate-ehcache" rev="5.4.1.Final" conf="compile->default"/>
+		<dependency org="org.hibernate" name="hibernate-hikaricp" rev="5.4.1.Final" conf="compile->default"/>
+		<dependency org="org.hibernate" name="hibernate-validator" rev="5.4.3.Final" conf="compile->default"/>
+		<dependency org="commons-fileupload" name="commons-fileupload" rev="1.4" conf="compile->default"/>
+		<dependency org="commons-io" name="commons-io" rev="2.6" conf="compile->default"/>
+		<dependency org="commons-beanutils" name="commons-beanutils" rev="1.9.3" conf="compile->default"/>
+		<dependency org="org.codehaus.jackson" name="jackson-mapper-asl" rev="1.9.13" conf="compile->default"/>
+		<dependency org="com.microsoft.sqlserver" name="mssql-jdbc" rev="7.3.0.jre8-preview" conf="compile->default"/>
+		<dependency org="dom4j" name="dom4j" rev="1.6.1" conf="compile->default"/>
+		<dependency org="org.apache.commons" name="commons-dbcp2" rev="2.1.1" conf="compile->default"/>
+		<dependency org="org.apache.commons" name="commons-lang3" rev="3.9" conf="compile->default"/>
+		<dependency org="javax.mail" name="mail" rev="1.4.7" conf="compile->default"/>
+		<dependency org="javax.mail" name="javax.mail-api" rev="1.5.6" conf="compile->default"/>
+		<dependency org="javax.xml.bind" name="jaxb-api" rev="2.3.1" conf="compile->default"/>
+		<dependency org="org.quartz-scheduler" name="quartz" rev="2.3.1" conf="compile->default"/>
+		<dependency org="com.fasterxml.jackson.core" name="jackson-core" rev="2.9.8" conf="compile->default"/>
+		<dependency org="com.fasterxml.jackson.core" name="jackson-annotations" rev="2.9.8" conf="compile->default"/>
+		<dependency org="com.fasterxml.jackson.core" name="jackson-databind" rev="2.9.8" conf="compile->default"/>
+
+		<dependency org="org.glassfish.web" name="el-impl" rev="2.2" conf="test->default"/>
+		<dependency org="junit" name="junit" rev="4.12" conf="test->default"/>
+		<dependency org="org.springframework" name="spring-test" rev="4.3.23.RELEASE" conf="test->default"/>
+	</dependencies>
+</ivy-module>

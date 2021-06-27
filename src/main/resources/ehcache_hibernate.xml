@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ehcache>
+  <diskStore path="C:/Temp/ehcache"/>
+<!--  <diskStore path="java.io.tmpdir" />-->
+  <defaultCache
+    maxElementsInMemory="1000"
+    eternal="false"
+    timeToIdleSeconds="12000"
+    timeToLiveSeconds="604800"
+    overflowToDisk="true">
+  </defaultCache>
+
+  <cache name="com.ebizprise.winw.project.entity.UserInfo"
+    maxElementsInMemory="2000"
+    eternal="false"
+    timeToIdleSeconds="3600"
+    timeToLiveSeconds="3600"
+    overflowToDisk="false">
+  </cache>
+
+  <cache name="scheduleJobCache"
+    maxElementsInMemory="300"
+    eternal="false"
+    overflowToDisk="true"
+    timeToIdleSeconds="12000"
+    timeToLiveSeconds="604800"
+    diskPersistent="false"
+    diskExpiryThreadIntervalSeconds="120"
+    memoryStoreEvictionPolicy="LRU"/>
+
+<!--  <cache name="userCache"-->
+<!--    maxElementsInMemory="300"-->
+<!--    eternal="true"-->
+<!--    overflowToDisk="true"-->
+<!--    timeToIdleSeconds="12000"-->
+<!--    timeToLiveSeconds="12000"-->
+<!--    diskPersistent="false"-->
+<!--    diskExpiryThreadIntervalSeconds="120"-->
+<!--    memoryStoreEvictionPolicy="LRU"/>-->
+
+  <cache
+    name="org.hibernate.cache.StandardQueryCache"
+    maxElementsInMemory="5000"
+    eternal="false"
+    timeToLiveSeconds="3600"
+    overflowToDisk="false"/>
+
+  <cache
+    name="org.hibernate.cache.UpdateTimestampsCache"
+    maxElementsInMemory="5000"
+    eternal="true"
+    overflowToDisk="true"/>
+
+</ehcache>

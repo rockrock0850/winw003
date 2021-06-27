@@ -1,0 +1,21 @@
+<html>
+<EIPADVO>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</EIPADVO>
+<body>
+<div align="right">
+    通知時間：$sysTime</br>
+</div>
+
+  親愛的 $group 您好：</br></br>
+  敬請審核 $formId $formClass ，</br>
+  表單資訊如下：</br>
+      1. 開單時間：$createTime</br>
+      2. 開單科別：$divisionCreated</br>
+      3. 開單人員：$userCreated</br>
+      4. 表單摘要：$summary</br></br>
+         前往審核表單<a href="$link">$link</a></br></br>
+ISWP系統管理員 敬上</br></br>
+本信件是由ISWP系統自動寄發，請勿直接回覆
+</body>
+</html>

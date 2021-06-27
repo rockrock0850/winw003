@@ -1,0 +1,10 @@
+SELECT fjdm.*
+
+FROM FORM_JOB_DIVISION_MAPPING fjdm 
+
+JOIN FORM_INTERNAL_PROCESS_STATUS fips 
+
+ON fjdm.Division = fips.Division
+
+WHERE 1=1
+${CONDITIONS}

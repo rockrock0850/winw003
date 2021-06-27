@@ -1,0 +1,23 @@
+<html>
+<EIPADVO>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</EIPADVO>
+<body>
+<div align="right">
+    通知時間：$sysTime</br>
+</div>
+
+親愛的 $userCreated 您好：</br></br>
+    $formId $formClass，</br>
+表單摘要：$summary</br></br>
+日誌填寫不足規則，敬請前往填寫日誌$link</br></br>
+
+填寫規則：</br>
+(1)預計完成天數２個月以上，或超過預計完成日且未經科長審核結案的需求單，每滿一個月時本月應至少寫一份日誌。</br>
+(2)日誌可填寫處理大鋼、遭遇困難、與主管部室溝通過程等...。</br>
+(3)檢查點：最新的日誌月份應為本月月份。</br></br>
+
+ISWP系統管理員 敬上</br></br>
+本信件是由ISWP系統自動寄發，請勿直接回覆
+</body>
+</html>

@@ -1,0 +1,14 @@
+SELECT
+	SLOG.UserId  AS userId,
+	LUSER.Name  AS userName,
+	SLOG.Status AS status,
+	SLOG.Time   AS time ,
+	SLOG.IP AS ip
+FROM
+	SYS_USER_LOG SLOG
+LEFT JOIN
+	LDAP_USER LUSER
+ON
+	SLOG.UserId = LUSER.UserId
+WHERE (1=1)
+${CONDITIONS}

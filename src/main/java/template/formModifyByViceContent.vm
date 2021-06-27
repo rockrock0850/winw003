@@ -1,0 +1,23 @@
+<html>
+<EIPADVO>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</EIPADVO>
+<body>
+<div align="right">
+    通知時間：$sysTime</br>
+</div>
+
+  親愛的 $group 您好：</br></br>
+  此為系統通知 </br></br>
+  表單編號：$formId $formClass</br>
+  提醒您，此表單內容已經被修改。</br>
+</br>
+表單資訊如下：</br>
+      1. 修改時間：$updatedAt</br>
+      2. 修改人員：$userName</br>
+      3. 修改原因：$modifyComment</br>
+         前往檢視表單&nbsp;<a href="$link">$link</a></br></br>
+ISWP系統管理員 敬上</br></br>
+本信件是由ISWP系統自動寄發，請勿直接回覆
+</body>
+</html>

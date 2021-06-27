@@ -1,0 +1,108 @@
+.ui-resizable-handle {
+	z-index:1 !important;
+}
+
+.ui-wrapper {
+	overflow: visible !important;
+    padding-bottom: 0 !important;
+}
+
+.ui-wrapper textarea {
+    display: inline-block !important;
+}
+
+.textareaLikeInput {
+	margin: 0px; 
+	width: 240px; 
+	height: 40px;
+	border-color: #888888;
+}
+
+.subToltal tr:last-child {
+	background : #DDDDDD !important;
+	font-weight:bold !important;
+    color: #000 !important;
+}
+
+.icon-calendar {
+	font-size: 140%;
+    color: #999;
+    vertical-align: middle;
+    padding: 5px;
+}
+
+.datepicker-split {
+	margin-left: -10px;
+    margin-right: 6px;
+}
+
+button.custom-picker {
+    padding: 0.2em;
+    -webkit-border-radius: 0.2em;
+    -moz-border-radius: 0.2em;
+    border: 0;
+    background: none;
+}
+
+button.custom-picker:hover i {
+	color: #217970;
+}
+
+.custom-label {
+	border: 0;
+    -webkit-appearance: none;
+}
+
+.hidden {
+	display: none;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+.form-daily-log {
+	height: 40px;
+	width:-webkit-fill-available !important;
+}
+
+.signing-remark {
+	height: 40px !important;
+	width:-webkit-fill-available !important;
+}
+
+.resizable-textarea {
+	height: 150px;
+	width:-webkit-fill-available !important;
+}
+
+.question-maintain {
+	height: 40px;
+	width:-webkit-fill-available !important;
+}
+
+.ui-widget-overlay {
+	background: #666666 url(../thirdParty/jqueryUI/1.11.4/images/ui-bg_diagonals-thick_20_666666_40x40.png) 50% 50% repeat;
+	opacity: .5;
+	filter: Alpha(Opacity=50);
+}
+
+.href-no-color {
+	color: inherit !important;
+}
+
+.dataTables_scroll table {
+	margin-bottom : 0 !important;
+}
+
+/* IE10+ specific styles go here */  
+@media screen and (-ms-high-contrast: active), screen and (-ms-high-contrast: none) {  
+	.signing-remark,
+	.form-daily-log,
+	.resizable-textarea,
+	.question-maintain {
+		width:95%;
+	}
+}

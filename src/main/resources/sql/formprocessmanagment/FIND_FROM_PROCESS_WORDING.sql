@@ -1,0 +1,7 @@
+SELECT 
+	wording.*
+FROM 
+	FORM_PROCESS_LEVEL_WORDING wording
+WHERE
+	1=1
+	${CONDITIONS}

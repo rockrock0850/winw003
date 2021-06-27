@@ -1,0 +1,4294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--info:單位名稱、OU代號、會計代號、連線代號、單位代號,職稱,職稱代碼 -->
+<EIPAD>
+	<accounts>
+		<userid>
+			<uID>YUCHIN</uID>
+			<description>邱羽青</description>
+			<title>資深專員</title>
+			<mail>YUCHIN@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,CMDB_MANAGER,CMDB_USER,ISWP-USR,HouseKeeping,el_oureporter,EIPEditor_A01419,OU_A01419,ematerial_HQUser,innertranop,GeneralAffair,ReplyUnit,DC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>AP502</uID>
+			<description>DC科-群組帳號管理者專用</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,vtman5,OAAdmin,GPAdmin,EIPRead_A01419,OU_A01419,Holiday,DCSEC,F_DOWNLOAD,Account
+				Operators</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊處,A01419,A01419,0010,0410,三等襄理,1010,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>wasporting1</uID>
+			<description>林界誠</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>AP501</uID>
+			<description>DC科-群組帳號管理者專用</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,vtman5,OAAdmin,GPAdmin,EIPRead_A01419,OU_A01419,Holiday,DCSEC,F_DOWNLOAD,Account
+				Operators</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊處,A01419,A01419,0010,0410,三等襄理,1010,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>wasporting</uID>
+			<description>張俊宏</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>AUDIT1</uID>
+			<description>稽核部查核使用者1*DC苗德誠申請</description>
+			<title />
+			<mail />
+			<memberOf>VDI_USER,OU_COEIPUSER,CMDB_USER,ISWP-USR,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>AUDIT2</uID>
+			<description>稽核部查核使用者2*DC苗德誠申請</description>
+			<title />
+			<mail />
+			<memberOf>VDI_USER,OU_COEIPUSER,CMDB_USER,ISWP-USR,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>lilin</uID>
+			<description>林麗</description>
+			<title>二等專案襄理</title>
+			<mail>lilin@tcb-bank.com.tw</mail>
+			<memberOf>GP_AGM,OU_COEIPUSER,CMDB_USER,ISWP-USR,DC_DEPLOY,EIPApprover_DC,EIPEditor_A01419,OU_A01419,e_paper,OS390_UI,DC,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專案襄理,1125,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>AUDIT3</uID>
+			<description>稽核部查核使用者3*DC苗德誠申請</description>
+			<title />
+			<mail />
+			<memberOf>VDI_USER,OU_COEIPUSER,CMDB_USER,ISWP-USR,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>AUDIT4</uID>
+			<description>稽核部查核使用者4*DC苗德誠申請</description>
+			<title />
+			<mail />
+			<memberOf>VDI_USER,OU_COEIPUSER,CMDB_USER,ISWP-USR,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>gs2100</uID>
+			<description>警衛室收發電子郵件</description>
+			<title />
+			<mail>gs2100@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>DELOITTE</uID>
+			<description>勤業眾信</description>
+			<title />
+			<mail>DELOITTE@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>dbmod1</uID>
+			<description>DC科-資料庫管制帳號-Domain User</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,EIPRead_A01419,OU_A01419,DCSEC</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>dbmod</uID>
+			<description>DC科-資料庫管制帳號-Domain User</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,EIPRead_A01419,OU_A01419,DCSEC</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊處,A01419,A01419,0010,0410,三等襄理,1010,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>AUDIT5</uID>
+			<description>稽核部查核使用者5*DC苗德誠申請</description>
+			<title />
+			<mail />
+			<memberOf>VDI_USER,OU_COEIPUSER,CMDB_USER,ISWP-USR,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>cltcb1</uID>
+			<description>DC科-程式進館專用帳號-Domain User</description>
+			<title />
+			<mail />
+			<memberOf>ORDP_IT_DC,OU_COEIPUSER,vtman5,EIPRead_A01419,ChVer,OU_A01419,F_DOWNLOAD</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>TINA1706</uID>
+			<description>劉依潔</description>
+			<title>二等專案襄理</title>
+			<mail>TINA1706@tcb-bank.com.tw</mail>
+			<memberOf>GP_AGM,PMS_LegalSW,OU_COEIPUSER,ISWP-USR,OU_A01419,headoffice,ReplyUnit,DC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專案襄理,1125,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>cltcb</uID>
+			<description>DC科-程式進館專用帳號-Domain User</description>
+			<title />
+			<mail />
+			<memberOf>ORDP_IT_DC,OU_COEIPUSER,vtman5,EIPRead_A01419,ChVer,OU_A01419,F_DOWNLOAD</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊處,A01419,A01419,0010,0410,三等襄理,1010,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>CLIFFCHANG</uID>
+			<description>張益郎</description>
+			<title>四等專員</title>
+			<mail>CLIFFCHANG@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,CMDB_USER,FHSHM_ReadOnly,ISWP-USR,WORKER,EIPEditor_A01419,OU_A01419,ReplyUnit,DC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,四等專員,0580,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SQLSEC</uID>
+			<description>資管科SQL帳號管理 Security Group</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,EIPRead_A01419,OU_A01419</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>cyhsia</uID>
+			<description>張胤俠</description>
+			<title>二等專案襄理</title>
+			<mail>Cyhsia@tcb-bank.com.tw</mail>
+			<memberOf>ROIA_BUPUSER,GP_AGM,OU_COEIPUSER,PMS_Property_ReadWrite,PMS_Budget_ReadWrite,PMS_Maintain_ReadWrite,PMS_Trace_ReadWrite,PMS_Asset,PMS_Warranty,PMS_Purchase,CMDB_USER,TCBORM_PRCSA,FHSHM_ReadOnly,ISWP-USR,EIPEditor_A01419,OU_A01419,DC,eOpinion</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專案襄理,1125,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>HENG</uID>
+			<description>陳企亨</description>
+			<title>二等專員</title>
+			<mail>HENG@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,hadms_dc_user,OU_COEIPUSER,IDM_User,IDM_Admin,DC_IDM_GROUPS,SAA,CMDB_MANAGER,CMDB_ADMIN,CMDB_USER,AA_Admin
+				Authorizers,ISWP-USR,DC_DEPLOY,EIPApprover_DC,EIPEditor_A01419,OU_A01419,DCSEC,e_paper,OS390_UI,ReplyUnit,DC,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>COMIS</uID>
+			<description>資訊部</description>
+			<title />
+			<mail>COMIS@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,COMeetingWM,OU_A01419,DC</memberOf>
+			<department />
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,,,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>cch</uID>
+			<description>蕭春惠</description>
+			<title>資深專員</title>
+			<mail>cch@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,CMDB_USER,ISWP-USR,HouseKeeping,el_oureporter,EIPEditor_A01419,OU_A01419,ematerial_HQUser,headoffice,innertranop,GeneralAffair,ReplyUnit,DC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>DATOU</uID>
+			<description>陳國正</description>
+			<title>資深助理專員</title>
+			<mail>DATOU@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,CMDB_USER,ISWP-USR,HouseKeeping,OU_A01419,DC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深助理專員,0475,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>FSA</uID>
+			<description>金管會稽核</description>
+			<title />
+			<mail>FSA@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,ISWP-MGR1,EIPRead_A01419,OU_A01419,e_paper</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>jasonlin</uID>
+			<description>林界誠</description>
+			<title>二等專案襄理</title>
+			<mail>jasonlin@tcb-bank.com.tw</mail>
+			<memberOf>GP_AGM,coeipvpn,OU_COEIPUSER,WEBCIP,FSMS_ADMIN,irod_IT_dc,ZoneParkFeesRole05,SAA,PEM_ADM,BF_Porting,ciscovpn,MB_IT_USER,CMDB_USER,Cisco_Controller,TCBORM_PRCSA,FHSHM_ReadOnly,ISWP-USR,EIPApprover_DC,EIPRead_A01419,EIPEditor_A01419,OU_A01419,Holiday,DCSEC,headoffice,HostUnit,OS390_UI,DC,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專案襄理,1125,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>DORLAMON</uID>
+			<description>張俊宏</description>
+			<title>二等專員</title>
+			<mail>DORLAMON@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,hadms_dc_user,OU_COEIPUSER,IDM_User,IDM_Admin,FSMS_ADMIN,DC_IDM_GROUPS,irod_IT_dc,ZoneParkFeesRole05,SAA,SVSAdmin,PEM_ADM,BF_Porting,ciscovpn,CMDB_ADMIN,MB_IT_USER,CMDB_USER,AA_Admin
+				Authorizers,ISWP-USR,DC_DEPLOY,EIPApprover_DC,EIPRead_A01419,EIPEditor_A01419,OU_A01419,Holiday,DCSEC,headoffice,e_paper,OS390_UI,DC,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SUH</uID>
+			<description>蘇元舜</description>
+			<title>資深專員</title>
+			<mail>SUH@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,FSMS_ADMIN,ZoneParkFeesRole05,SAA,SVSAdmin,PEM_ADM,BF_Porting,ciscovpn,MB_IT_USER,CMDB_USER,ISWP-USR,EIPApprover_DC,EIPRead_A01419,EIPEditor_A01419,OU_A01419,Holiday,headoffice,DC,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>bingo</uID>
+			<description>周煥彬</description>
+			<title>三等專案襄理</title>
+			<mail>bingo@tcb-bank.com.tw</mail>
+			<memberOf>GP_AGM,OU_COEIPUSER,PMS_Property_ReadWrite,PMS_Budget_ReadWrite,PMS_Maintain_ReadWrite,PMS_Trace_ReadWrite,PMS_Asset,PMS_Warranty,PMS_Purchase,PMS_Dept,CMDB_USER,FHSHM_ReadOnly,ISWP-USR,EIPEditor_A01419,OU_A01419,headoffice,DC,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專案襄理,1025,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>AYUNG</uID>
+			<description>吳孔鏞</description>
+			<title>一等專案襄理兼資料管制科副科長</title>
+			<mail>AYUNG@tcb-bank.com.tw</mail>
+			<memberOf>GP_A01419GMSMDM,GP_DM,GP_AGM,VDI_USER,F_DOWNLOAD_APPROVE,coeipvpn,OU_COEIPUSER,PMS_Property_ReadWrite,PMS_Budget_ReadWrite,PMS_Maintain_ReadWrite,PMS_Trace_ReadWrite,WEBCIP,PMS_Asset,PMS_Warranty,irod_sup,PMS_Except,PMS_Purchase,PMS_PcMaintain,PMS_Dept,DC_HK,CMDB_USER,Cisco_Controller,ISWP-MGR1,FHSHM_ReadOnly,innertransp,EIPRead_A01419,ematerial_HQManager,EIPEditor_A01419,OU_A01419,headoffice,ReplyUnit,DC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專案襄理兼資料管制科副科長,1262,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SHC0734</uID>
+			<description>許惠靜</description>
+			<title>一等專案襄理兼資料管制科科長</title>
+			<mail>SHC0734@tcb-bank.com.tw</mail>
+			<memberOf>GP_SM,GP_A01419GMSMDM,GP_AGM,VDI_USER,F_DOWNLOAD_APPROVE,coeipvpn,OU_COEIPUSER,PMS_Asset,PMS_Warranty,irod_sup,PMS_Except,PMS_Purchase,PMS_PcMaintain,PMS_Dept,CMDB_USER,Cisco_Controller,ISWP-MGR2,EIPRead_A01419,ematerial_HQManager,EIPEditor_A01419,OU_A01419,headoffice,DC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專案襄理兼資料管制科科長,1282,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>linfy</uID>
+			<description>林豐英</description>
+			<title>資深助理專員</title>
+			<mail>linfy@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,CMDB_USER,ISWP-USR,WORKER,EIPRead_A01419,OU_A01419,ReplyUnit,DC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深助理專員,0475,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>LNN</uID>
+			<description>林妮妮</description>
+			<title>資深助理專員</title>
+			<mail>LNN@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,CMDB_USER,ISWP-USR,EIPRead_A01419,OU_A01419,DC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深助理專員,0475,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>CCADMIN</uID>
+			<description>DC科在ClearCase系統的VOB或專案使用</description>
+			<title />
+			<mail>CCADMIN@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,ClearCase,EIPRead_A01419,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊處,A01419,A01419,0010,0410,三等襄理,1010,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>POLO</uID>
+			<description>黃本昌</description>
+			<title>資深專員</title>
+			<mail>POLO@tcb-bank.com.tw</mail>
+			<memberOf>PMS_LegalSW,PMS_SysMgr,coeipvpn,OU_COEIPUSER,PMS_Property_ReadWrite,PMS_Budget_ReadWrite,PMS_Maintain_ReadWrite,PMS_Trace_ReadWrite,PMS_Asset,PMS_Warranty,PMS_Except,PMS_Purchase,PMS_PcMaintain,PMS_Dept,CMDB_USER,FHSHM_ReadOnly,ISWP-USR,EIPRead_A01419,EIPEditor_A01419,OU_A01419,headoffice,DC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>shuliu</uID>
+			<description>陳淑柳</description>
+			<title>二等專案襄理</title>
+			<mail>shuliu@tcb-bank.com.tw</mail>
+			<memberOf>GP_AGM,coeipvpn,OU_COEIPUSER,BF_Porting,ciscovpn,CMDB_USER,ISWP-USR,DC_DEPLOY,EIPApprover_DC,EIPRead_A01419,EIPEditor_A01419,OU_A01419,DCSEC,e_paper,OS390_UI,DC,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專案襄理,1125,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>TZU-HSIN</uID>
+			<description>王自馨</description>
+			<title>資深專員</title>
+			<mail>TZU-HSIN@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,PMS_Property_ReadWrite,PMS_Budget_ReadWrite,PMS_Maintain_ReadWrite,PMS_Trace_ReadWrite,PMS_Asset,PMS_Warranty,PMS_Purchase,CMDB_USER,FHSHM_ReadOnly,ISWP-USR,EIPRead_A01419,EIPEditor_A01419,OU_A01419,headoffice,DC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>WENLI</uID>
+			<description>高文麗</description>
+			<title>一等專案襄理兼資料管制科副科長</title>
+			<mail>WENLI@tcb-bank.com.tw</mail>
+			<memberOf>GP_A01419GMSMDM,GP_DM,GP_AGM,VDI_USER,F_DOWNLOAD_APPROVE,coeipvpn,OU_COEIPUSER,WEBCIP,PMS_Asset,PMS_Warranty,DC_IDM_GROUPS,irod_sup,PMS_Except,PMS_Purchase,PMS_PcMaintain,PMS_Dept,DC_HK,CMDB_USER,ISWP-MGR1,FHSHM_ReadOnly,HouseKeeping,innertransp,ClearCase,EIPRead_A01419,ematerial_HQManager,EIPEditor_A01419,OU_A01419,headoffice,ReplyUnit,DC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專案襄理兼資料管制科副科長,1262,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>tjc</uID>
+			<description>博靖琦</description>
+			<title>資深專員</title>
+			<mail>tjc@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,IDM_User,IDM_Admin,DC_IDM_GROUPS,SAA,PEM_ADM,CMDB_USER,ISWP-USR,DC_DEPLOY,EIPApprover_DC,EIPRead_A01419,EIPEditor_A01419,OU_A01419,DCSEC,headoffice,HostUnit,e_paper,OS390_UI,ReplyUnit,DC,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>JAZZMIAU</uID>
+			<description>苗德誠</description>
+			<title>二等專案襄理</title>
+			<mail>JAZZMIAU@tcb-bank.com.tw</mail>
+			<memberOf>ROIA_BUPUSER,GP_AGM,PMS_LegalSW,coeipvpn,OU_COEIPUSER,PMS_Property_ReadWrite,PMS_Budget_ReadWrite,PMS_Maintain_ReadWrite,PMS_Trace_ReadWrite,PMS_Asset,PMS_Warranty,PMS_Purchase,PMS_Dept,CMDB_USER,TCBORM_PRCSA,FHSHM_ReadOnly,ISWP-USR,EIPEditor_A01419,OU_A01419,headoffice,ReplyUnit,DC,eOpinion</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專案襄理,1125,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>YOUWENYUAN</uID>
+			<description>游文淵</description>
+			<title>資深助理專員</title>
+			<mail>YOUWENYUAN@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,CMDB_USER,ISWP-USR,OU_A01419,DC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深助理專員,0475,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>CHIENHUA</uID>
+			<description>杜建華</description>
+			<title>二等專員</title>
+			<mail>CHIENHUA@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,CMDB_USER,ISWP-USR,EIPRead_A01419,EIPEditor_A01419,OU_A01419,headoffice,DC,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>LLILILI</uID>
+			<description>李天誠</description>
+			<title>三等專員</title>
+			<mail>LLILILI@tcb-bank.com.tw</mail>
+			<memberOf>PMS_LegalSW,PMS_SysMgr,OU_COEIPUSER,PMS_Property_ReadWrite,PMS_Budget_ReadWrite,PMS_Maintain_ReadWrite,PMS_Trace_ReadWrite,PMS_Asset,PMS_Warranty,PMS_Except,PMS_Purchase,PMS_PcMaintain,PMS_Dept,CMDB_USER,FHSHM_ReadOnly,ISWP-USR,el_oureporter,EIPEditor_A01419,OU_A01419,headoffice,HostUnit,ReplyUnit,DC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專員,0660,DC</info>
+			<ou>DC</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>MING</uID>
+			<description>白明裕</description>
+			<title>一等專案襄理</title>
+			<mail>MING@tcb-bank.com.tw</mail>
+			<memberOf>GP_AGM,coeipvpn,OU_COEIPUSER,TCB_EIPApprove,PMS_Dept,PL,CMDB_USER,ISWP-USR,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專案襄理,1225,PL</info>
+			<ou>PL</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>711006</uID>
+			<description>陳秋風</description>
+			<title>一等專員</title>
+			<mail>711006@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,complain-employee,PMS_PT,irod_IT_pt,hadms_pt_user,PEM_OP,TWNB_IT_Editor,CMDB_USER,TSRM-USR1,WFT_EMPLOYEE,PT_EFORM,ZoneParkFeesRole04,PT,EIPRead_A01419,EIPEditor_A01419,EIPMainEditor,OU_A01419,headoffice,HostUnit,EIPOpinion,AMSDP,F_DOWNLOAD,A01419Author</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,PT</info>
+			<ou>PT</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>PTIVRUSER</uID>
+			<description>吳英彥</description>
+			<title />
+			<mail>PTIVRUSER@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,CMDB_USER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>PT</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>EDF1234</uID>
+			<description>何鉉奎</description>
+			<title>一等專員</title>
+			<mail>EDF1234@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,PMS_PT,irod_IT_pt,hadms_pt_user,PIMS_OWNER,PEM_OP,TWNB_IT_Editor,CMDB_USER,TSRM-USR1,FHSHM_ReadOnly,WFT_EMPLOYEE,PT,EIPRead_A01419,OU_A01419,BMRTHqInq,headoffice,SCCM_ETABSTST_OP,MNM_ETABS,SCCM_ETABS_QRY,HostUnit,AMSDP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,PT</info>
+			<ou>PT</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>JASMINE641</uID>
+			<description>謝嘉玲</description>
+			<title>資深專員</title>
+			<mail>JASMINE641@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,complain-employee,WEBCIP,PMS_PT,irod_IT_pt,hadms_pt_user,PIMS_OWNER,PEM_OP,TWNB_IT_Editor,CMDB_USER,TSRM-USR1,WFT_EMPLOYEE,ZoneParkFeesRole04,PT,EIPRead_A01419,OU_A01419,BMRTHqInq,headoffice,MNM_ETABS,SCCM_ETABS_QRY,HostUnit,EIPOpinion,AMSDP,F_DOWNLOAD,A01419Author</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,PT</info>
+			<ou>PT</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SIN31606</uID>
+			<description>吳永興</description>
+			<title>一等專員</title>
+			<mail>SIN31606@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,hadms_admins,WEBCIP,PMS_PT,irod_IT_pt,PMS_Dept,hadms_pt_user,PIMS_OWNER,PEM_OP,CMDB_MANAGER,ciscovpn,TWNB_IT_Editor,CMDB_USER,TSRM-USR1,WFT_EMPLOYEE,ZoneParkFeesRole04,PT,EIPEditor_A01419,EIPMainEditor,OU_A01419,headoffice,HostUnit,AMSDP,F_DOWNLOAD,A01419Author</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,PT</info>
+			<ou>PT</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>PTADMINSMG</uID>
+			<description>PC使用者最高權限管理系統帳號(程式專用)</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>PT</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>wiy</uID>
+			<description>吳英彥</description>
+			<title>資深專員</title>
+			<mail>wiy@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,hadms_admins,PMS_PT,irod_IT_pt,PMS_Dept,hadms_pt_user,PIMS_OWNER,PEM_USR,ciscovpn,TWNB_IT_Editor,CMDB_USER,TSRM-USR1,WFT_EMPLOYEE,PT_EFORM,ZoneParkFeesRole04,PT,EIPRead_A01419,EIPEditor_A01419,EIPMainEditor,OU_A01419,BMRTHqInq,SCCM_ETABS_OP,SCCM_ETABSTST_QRY,headoffice,SCCM_ETABSTST_OP,MNM_ETABS,SCCM_ETABS_QRY,HostUnit,AMSDP,F_DOWNLOAD,A01419Author</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,PT</info>
+			<ou>PT</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>HSULITING</uID>
+			<description>徐麗婷</description>
+			<title>二等專員</title>
+			<mail>HSULITING@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,PMS_PT,irod_IT_pt,PIMS_OWNER,PEM_OP,hadms_pt_inq,TWNB_IT_Editor,CMDB_USER,TSRM-USR1,WFT_EMPLOYEE,ZoneParkFeesRole04,PT,OU_A01419,headoffice,HostUnit,AMSDP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,PT</info>
+			<ou>PT</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>har</uID>
+			<description>韓立中</description>
+			<title>資深專員</title>
+			<mail>har@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,PMS_PT,irod_IT_pt,PMS_Dept,hadms_pt_user,PIMS_OWNER,PEM_OP,TWNB_IT_Editor,CMDB_USER,TSRM-USR1,FHSHM_ReadOnly,WFT_EMPLOYEE,PT_EFORM,ZoneParkFeesRole04,PT,EIPRead_A01419,OU_A01419,BMRTHqInq,headoffice,MNM_ETABS,SCCM_ETABS_QRY,HostUnit,AMSDP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,PT</info>
+			<ou>PT</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>CSH35604</uID>
+			<description>陳勝宏</description>
+			<title>一等專員</title>
+			<mail>CSH35604@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,PMS_PT,irod_IT_pt,hadms_pt_user,PIMS_OWNER,PEM_USR,ciscovpn,TWNB_IT_Editor,CMDB_USER,TSRM-USR1,WFT_EMPLOYEE,PT_EFORM,ZoneParkFeesRole04,PT,EIPEditor_A01419,OU_A01419,BMRTHqInq,SCCM_ETABS_OP,SCCM_ETABSTST_QRY,headoffice,SCCM_ETABSTST_OP,MNM_ETABS,SCCM_ETABS_QRY,HostUnit,AMSDP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,PT</info>
+			<ou>PT</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>FANG0115</uID>
+			<description>黃書芳</description>
+			<title>一等專員</title>
+			<mail>FANG0115@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,PMS_PT,irod_IT_pt,PIMS_OWNER,PEM_OP,hadms_pt_inq,TWNB_IT_Editor,CMDB_USER,TSRM-USR1,WFT_EMPLOYEE,PT_EFORM,ZoneParkFeesRole04,PT,AMSADMIN,OU_A01419,BMRTHqInq,headoffice,MNM_ETABS,SCCM_ETABS_QRY,HostUnit,AMSDP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,PT</info>
+			<ou>PT</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>luara</uID>
+			<description>林華蕙</description>
+			<title>資深專員</title>
+			<mail>luara@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,PMS_PT,irod_IT_pt,PIMS_OWNER,PEM_USR,hadms_pt_inq,TWNB_IT_Editor,CMDB_USER,TSRM-USR1,WFT_EMPLOYEE,PT_EFORM,ZoneParkFeesRole04,PT,EIPRead_A01419,AMSADMIN,OU_A01419,BMRTHqInq,SCCM_ETABS_OP,SCCM_ETABSTST_QRY,headoffice,SCCM_ETABSTST_OP,MNM_ETABS,SCCM_ETABS_QRY,HostUnit,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,PT</info>
+			<ou>PT</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>LIONCER</uID>
+			<description>蘇讚封</description>
+			<title>一等專員</title>
+			<mail>LIONCER@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,PMS_PT,irod_IT_pt,hadms_pt_user,PIMS_OWNER,PEM_OP,TWNB_IT_Editor,CMDB_USER,TSRM-USR1,WFT_EMPLOYEE,PT_EFORM,ZoneParkFeesRole04,PT,EIPRead_A01419,OU_A01419,BMRTHqInq,headoffice,MNM_ETABS,SCCM_ETABS_QRY,HostUnit,AMSDP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,PT</info>
+			<ou>PT</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>CHEN0330</uID>
+			<description>許哲禎</description>
+			<title>二等專員</title>
+			<mail>CHEN0330@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,PMS_PT,irod_IT_pt,PMS_Dept,hadms_pt_user,PIMS_OWNER,PEM_OP,TWNB_IT_Editor,CMDB_USER,TSRM-USR1,WFT_EMPLOYEE,ZoneParkFeesRole04,PT,EIPRead_A01419,OU_A01419,headoffice,MNM_ETABS,SCCM_ETABS_QRY,HostUnit,AMSDP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,PT</info>
+			<ou>PT</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ptljm</uID>
+			<description>林靜美</description>
+			<title>二等專案襄理兼連線管理科副科長</title>
+			<mail>ptljm@tcb-bank.com.tw</mail>
+			<memberOf>GP_A01419GMSMDM,GP_DM,GP_AGM,VDI_MANAGER,F_DOWNLOAD_APPROVE,coeipvpn,OU_COEIPUSER,PMS_PT,irod_IT_pt,PMS_Dept,PIMS_OWNER,PEM_OP,hadms_pt_mgr,ODMS_PTMGR,ciscovpn,TWNB_IT_Editor,CMDB_USER,Cisco_Controller,ISWP-MGR1,WFT_EMPLOYEE,ZoneParkFeesRole04,PT,EIPRead_A01419,EIPEditor_A01419,OU_A01419,BMRTHqInq,headoffice,MNM_ETABS,SCCM_ETABS_QRY,HostUnit,AMSDP,A01419Editor1</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專案襄理兼連線管理科副科長,1182,PT</info>
+			<ou>PT</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>PTLH</uID>
+			<description>周麗華</description>
+			<title>一等專案襄理兼連線管理科科長</title>
+			<mail>PTLH@tcb-bank.com.tw</mail>
+			<memberOf>GP_SM,GP_A01419GMSMDM,GP_AGM,VDI_MANAGER,F_DOWNLOAD_APPROVE,coeipvpn,OU_COEIPUSER,PMS_PT,irod_IT_pt,PMS_Dept,PIMS_OWNER,PEM_OP,hadms_pt_mgr,ODMS_PTMGR,ciscovpn,TWNB_IT_Editor,CMDB_USER,Cisco_Controller,ISWP-MGR2,WFT_EMPLOYEE,ZoneParkFeesRole04,PT,EIPRead_A01419,EIPEditor_A01419,OU_A01419,BMRTHqInq,headoffice,MNM_ETABS,SCCM_ETABS_QRY,HostUnit,AMSDP,A01419Editor1</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專案襄理兼連線管理科科長,1282,PT</info>
+			<ou>PT</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>924402</uID>
+			<description>吳仁雍</description>
+			<title>二等專員</title>
+			<mail>924402@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,PMS_PT,irod_IT_pt,PEM_OP,hadms_pt_inq,CMDB_MANAGER,TWNB_IT_Editor,CMDB_USER,TSRM-USR1,WFT_EMPLOYEE,PT,OU_A01419,SCCM_ETABSTST_QRY,headoffice,HostUnit,AMSDP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,PT</info>
+			<ou>PT</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>EFDPEI</uID>
+			<description>陳珮</description>
+			<title>連線管理科副科長</title>
+			<mail>EFDPEI@tcb-bank.com.tw</mail>
+			<memberOf>GP_A01419GMSMDM,GP_DM,VDI_MANAGER,F_DOWNLOAD_APPROVE,coeipvpn,OU_COEIPUSER,PMS_PT,irod_IT_pt,PMS_Dept,PIMS_OWNER,PEM_OP,hadms_pt_mgr,ciscovpn,TWNB_IT_Editor,CMDB_USER,Cisco_Controller,ISWP-MGR1,WFT_EMPLOYEE,ZoneParkFeesRole04,PT,OU_A01419,headoffice,HostUnit,AMSDP,A01419Editor1</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,連線管理科副科長,1050,PT</info>
+			<ou>PT</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SEANSEAN</uID>
+			<description>陳翔</description>
+			<title>一等專員</title>
+			<mail>SEANSEAN@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,PMS_PT,irod_IT_pt,PEM_USR,hadms_pt_inq,TWNB_IT_Editor,CMDB_USER,TSRM-USR1,WFT_EMPLOYEE,ZoneParkFeesRole04,PT,OU_A01419,headoffice,HostUnit,AMSDP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,PT</info>
+			<ou>PT</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>EFDCHC</uID>
+			<description>張建興</description>
+			<title>協理</title>
+			<mail>EFDCHC@tcb-bank.com.tw</mail>
+			<memberOf>GP_A01419GMSMDM,GP_SGM,GP_HGSM,GP_HSGM,VDI_MANAGER,coeipvpn,OU_COEIPUSER,IMC_MGR,Manager,ISWP-MGR4,CMDB_USER,OU_A01419,AMSDP</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,協理,1476,Manager</info>
+			<ou>Manager</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>mcl</uID>
+			<description>李明忠</description>
+			<title>副理</title>
+			<mail>mcl@tcb-bank.com.tw</mail>
+			<memberOf>GP_A01419GMSMDM,GP_HDGM,GP_DGM,VDI_MANAGER,coeipvpn,OU_COEIPUSER,irod_sup,Manager,ISWP-MGR3,Cisco_Controller,OU_A01419,AMSDP,ReplyUnit</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,副理,1290,Manager</info>
+			<ou>Manager</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>chijen</uID>
+			<description>陳其珍</description>
+			<title>副理</title>
+			<mail>chijen@tcb-bank.com.tw</mail>
+			<memberOf>GP_A01419GMSMDM,GP_HDGM,GP_DGM,VDI_MANAGER,coeipvpn,OU_COEIPUSER,irod_sup,Manager,ISWP-MGR3,Cisco_Controller,OU_A01419,MNM_ETABS,AMSDP</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,副理,1290,Manager</info>
+			<ou>Manager</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>LDMSRO</uID>
+			<description>宋貞宏</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,LDMS_F5 _Monitor</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SECURITY</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>SCSQLSVR</uID>
+			<description>管理資安防護系統資料庫用</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>SECURITY</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>xfg</uID>
+			<description>xfort及xgate與AD帳號同步用</description>
+			<title />
+			<mail>xfg@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,EIPRead_A01419,OU_A01419</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>SECURITY</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>NetIQ</uID>
+			<description>NetIQ Appm Server</description>
+			<title />
+			<mail>NetIQ@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,EIPRead_A01419,OU_A01419</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊處,A01419,A01419,0010,0410,三等襄理,1010,SECURITY</info>
+			<ou>SECURITY</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>MING.YANG</uID>
+			<description>楊宗明</description>
+			<title>二等專員</title>
+			<mail>MING.YANG@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,CC_AP4_GP2,ISWP-USR,AP4,OU_A01419,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>LEEPEICHUN</uID>
+			<description>李珮君</description>
+			<title>二等專員</title>
+			<mail>LEEPEICHUN@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,CC_AP4_GP1,CC_AP4_GP2,ISWP-USR,AP4,ClearCase,OU_A01419,headoffice,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>JIN0805</uID>
+			<description>吳菁芝</description>
+			<title>一等專員</title>
+			<mail>JIN0805@tcb-bank.com.tw</mail>
+			<memberOf>FundITUser,VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,CC_AP4_GP2,ISWP-USR,AP4,OU_A01419,headoffice,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>EMDAP41</uID>
+			<description>設計四科AP人員緊急狀況使用*AP4楊宗明申請</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>CH.YANG</uID>
+			<description>楊宗諴</description>
+			<title>三等專員</title>
+			<mail>CH.YANG@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,ISWP-USR,AP4,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專員,0660,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>yuehyun</uID>
+			<description>梁月芸</description>
+			<title>一等專案襄理兼設計四科副科長</title>
+			<mail>yuehyun@tcb-bank.com.tw</mail>
+			<memberOf>GP_A01419GMSMDM,GP_DM,GP_AGM,VDI_USER,F_DOWNLOAD_APPROVE,coeipvpn,OU_COEIPUSER,AP4_HK,irod_it,WEBCIP,irod_sup,PMS_Dept,CMDB_USER,Cisco_Controller,ISWP-MGR1,AP4,EIPEditor_A01419,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專案襄理兼設計四科副科長,1262,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>NAKO.LU</uID>
+			<description>呂佩倚</description>
+			<title>三等專員</title>
+			<mail>NAKO.LU@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,PMS_Dept,CMDB_MANAGER,ciscovpn,CMDB_USER,ISWP-USR,AP4,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專員,0660,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>LCM1636</uID>
+			<description>李宗明</description>
+			<title>設計四科副科長</title>
+			<mail>LCM1636@tcb-bank.com.tw</mail>
+			<memberOf>GP_A01419GMSMDM,GP_DM,VDI_USER,F_DOWNLOAD_APPROVE,coeipvpn,OU_COEIPUSER,AP4_HK,irod_it,WEBCIP,irod_sup,PMS_Dept,CMDB_USER,Cisco_Controller,ISWP-MGR1,AP4,EIPEditor_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,設計四科副科長,1050,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SMT</uID>
+			<description>蔡秀敏</description>
+			<title>一等專案襄理兼設計四科科長</title>
+			<mail>SMT@tcb-bank.com.tw</mail>
+			<memberOf>GP_SM,GP_A01419GMSMDM,GP_AGM,VDI_USER,F_DOWNLOAD_APPROVE,coeipvpn,OU_COEIPUSER,irod_it,irod_sup,PMS_Dept,CMDB_USER,Cisco_Controller,ISWP-MGR2,AP4,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專案襄理兼設計四科科長,1282,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>WAY1102</uID>
+			<description>楊惟欣</description>
+			<title>一等專員</title>
+			<mail>WAY1102@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,CC_AP4_GP1,CC_AP4_GP2,ISWP-USR,AP4,ClearCase,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SHAOYU</uID>
+			<description>林紹宇</description>
+			<title>試用二等專員</title>
+			<mail>SHAOYU@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,CC_AP4_GP2,ISWP-USR,AP4,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,試用二等專員,0726,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ARIEL8244</uID>
+			<description>陳瑜</description>
+			<title>試用二等專員</title>
+			<mail>ARIEL8244@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,CC_AP4_GP2,ISWP-USR,AP4,OU_A01419,headoffice,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,試用二等專員,0726,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>BOBO3079</uID>
+			<description>李岳</description>
+			<title>資深專員</title>
+			<mail>BOBO3079@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,ISWP-USR,AP4,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>AMBERSU</uID>
+			<description>蘇暐雯</description>
+			<title>試用二等專員</title>
+			<mail>AMBERSU@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,CMDB_MANAGER,ciscovpn,CMDB_USER,CC_AP4_GP2,ISWP-USR,AP4,OU_A01419,headoffice,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,試用二等專員,0726,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>elin</uID>
+			<description>林宜霖</description>
+			<title>資深專員</title>
+			<mail>elin@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,ISWP-USR,AP4,OU_A01419,headoffice,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SYLVIATASI</uID>
+			<description>蔡秀芬</description>
+			<title>一等專員</title>
+			<mail>SYLVIATASI@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,ISWP-USR,AP4,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>VIVIEN</uID>
+			<description>陳怡如</description>
+			<title>二等專員</title>
+			<mail>VIVIEN@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,ISWP-USR,AP4,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>JOEJOECCL</uID>
+			<description>李嘉齊</description>
+			<title>一等專員</title>
+			<mail>JOEJOECCL@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,CC_AP4_GP2,ISWP-USR,AP4,OU_A01419,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>LEOKIDD</uID>
+			<description>許世昌</description>
+			<title>資深專員</title>
+			<mail>LEOKIDD@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,CC_AP4_GP2,ISWP-USR,AP4,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>APYSYNET</uID>
+			<description>袁秀玉</description>
+			<title>一等專案襄理</title>
+			<mail>APYSYNET@tcb-bank.com.tw</mail>
+			<memberOf>GP_AGM,VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,CC_AP4_GP1,CC_AP4_GP2,ISWP-USR,AP4,ClearCase,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專案襄理,1225,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>APHSU</uID>
+			<description>許偉添</description>
+			<title>三等專案襄理</title>
+			<mail>APHSU@tcb-bank.com.tw</mail>
+			<memberOf>GP_AGM,VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,ISWP-USR,AP4,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專案襄理,1025,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>STL</uID>
+			<description>施岱伶</description>
+			<title>三等專案襄理</title>
+			<mail>STL@tcb-bank.com.tw</mail>
+			<memberOf>GP_AGM,VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,ISWP-USR,AP4,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專案襄理,1025,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SHI-ZONG</uID>
+			<description>鄭世宗</description>
+			<title>資深專員</title>
+			<mail>SHI-ZONG@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,ISWP-USR,AP4,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>JUILIN</uID>
+			<description>林瑞麟</description>
+			<title>資深專員</title>
+			<mail>JUILIN@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,ISWP-USR,AP4,OU_A01419,headoffice,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>HSIEH0819</uID>
+			<description>謝沂蓁</description>
+			<title>二等專員</title>
+			<mail>HSIEH0819@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,PMS_Dept,ciscovpn,CMDB_USER,CC_AP4_GP1,ISWP-USR,AP4,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>JOHNC</uID>
+			<description>陳祖賜</description>
+			<title>一等專員</title>
+			<mail>JOHNC@tcb-bank.com.tw</mail>
+			<memberOf>FundITUser,VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,CC_AP4_GP2,ISWP-USR,AP4,OU_A01419,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,AP4</info>
+			<ou>AP4</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>HENJEN</uID>
+			<description>胡振荏</description>
+			<title>三等專員</title>
+			<mail>HENJEN@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_IT_ap,PMS_Dept,CC_AP2_GP1,ciscovpn,CMDB_USER,FHSHM_ReadOnly,ISWP-USR,AP2,ClearCase,EIPEditor_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專員,0660,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>JANETSENG</uID>
+			<description>曾巧雯</description>
+			<title>資深專員</title>
+			<mail>JANETSENG@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_it,irod_IT_ap,CC_AP2_GP2,IMC_EMP,CMDB_USER,ISWP-USR,CC_SD_R6,AP2,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>KHLU</uID>
+			<description>盧冠豪</description>
+			<title>一等專員</title>
+			<mail>KHLU@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,PMS_Dept,CC_AP2_GP1,ciscovpn,CMDB_USER,FHSHM_ReadOnly,ISWP-USR,AP2,EIPEditor_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>TOM6104HI</uID>
+			<description>周進富</description>
+			<title>二等專員</title>
+			<mail>TOM6104HI@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_IT_ap,hadms_ap_user,CC_AP2_GP1,ciscovpn,CMDB_USER,ISWP-USR,AP2,ClearCase,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>REXHUANG</uID>
+			<description>黃勝鴻</description>
+			<title>二等專員</title>
+			<mail>REXHUANG@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,CC_AP2_GP1,ciscovpn,CMDB_USER,ISWP-USR,AP2,ClearCase,EIPEditor_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>CLOUD</uID>
+			<description>許智偉</description>
+			<title>二等專員</title>
+			<mail>CLOUD@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,CC_AP2_GP1,ciscovpn,CMDB_USER,ISWP-USR,AP2,ClearCase,EIPEditor_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>RAY_HSIAO</uID>
+			<description>蕭仲賢</description>
+			<title>二等專員</title>
+			<mail>RAY_HSIAO@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_it,irod_IT_ap,PMS_Dept,ciscovpn,CMDB_USER,ISWP-USR,AP2,EIPRead_A01419,EIPEditor_A01419,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SEAN</uID>
+			<description>陳君星</description>
+			<title>二等專員</title>
+			<mail>SEAN@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_IT_ap,PMS_Dept,ciscovpn,CMDB_USER,ISWP-USR,AP2,EIPRead_A01419,EIPEditor_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>cher</uID>
+			<description>林淑菁</description>
+			<title>二等專案襄理兼設計二科副科長</title>
+			<mail>cher@tcb-bank.com.tw</mail>
+			<memberOf>GP_A01419GMSMDM,GP_DM,GP_AGM,VDI_USER,F_DOWNLOAD_APPROVE,coeipvpn,OU_COEIPUSER,irod_it,irod_sup,PMS_Dept,hadms_ap_mgr,CMDB_MANAGER,ciscovpn,IMC_JM,Cisco_Controller,ISWP-MGR1,FHSHM_ReadOnly,AP2,EIPEditor_A01419,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專案襄理兼設計二科副科長,1182,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>WENDY_TSAI</uID>
+			<description>蔡佩妏</description>
+			<title>資深專員</title>
+			<mail>WENDY_TSAI@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_it,irod_IT_ap,CC_AP2_GP2,CMDB_MANAGER,CMDB_USER,ISWP-USR,CC_SD_R6,AP2,EIPRead_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>MARKFF</uID>
+			<description>吳曜先</description>
+			<title>二等專員</title>
+			<mail>MARKFF@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_it,irod_IT_ap,PMS_Dept,ciscovpn,CMDB_USER,ISWP-USR,AP2,ClearCase,EIPEditor_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ROGERLIN</uID>
+			<description>林勝宏</description>
+			<title>一等專員</title>
+			<mail>ROGERLIN@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_it,irod_IT_ap,CC_AP2_GP2,CMDB_USER,ISWP-USR,CC_SD_R6,AP2,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>emdors2</uID>
+			<description>海外分行系統緊急帳號*盧冠豪申請</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>AP2</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>MediaPlay</uID>
+			<description>營業廳多媒體系統*AP2蕭仲賢申請</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>AP2</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>SHARON</uID>
+			<description>劉姵君</description>
+			<title>二等專員</title>
+			<mail>SHARON@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_it,irod_IT_ap,CC_AP2_GP1,ciscovpn,CMDB_USER,ISWP-USR,AP2,EIPEditor_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>EILEENWU</uID>
+			<description>吳靜蘭</description>
+			<title>資深專員</title>
+			<mail>EILEENWU@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,CC_AP2_GP2,CMDB_USER,ISWP-USR,CC_SD_R6,AP2,EIPRead_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>AWAY</uID>
+			<description>柳秀慧</description>
+			<title>二等專員</title>
+			<mail>AWAY@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_it,irod_IT_ap,CC_AP2_GP2,CMDB_USER,ISWP-USR,CC_SD_R6,AP2,EIPRead_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>APLAI</uID>
+			<description>賴博仁</description>
+			<title>一等專案襄理兼設計二科科長</title>
+			<mail>APLAI@tcb-bank.com.tw</mail>
+			<memberOf>GP_SM,GP_A01419GMSMDM,GP_AGM,VDI_USER,F_DOWNLOAD_APPROVE,coeipvpn,OU_COEIPUSER,irod_it,AP2_ADM,irod_sup,PMS_Dept,hadms_ap_mgr,ciscovpn,CMDB_USER,Cisco_Controller,ISWP-MGR2,AP2,EIPRead_A01419,EIPEditor_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專案襄理兼設計二科科長,1282,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>LINJC</uID>
+			<description>林志勳</description>
+			<title>資深專員</title>
+			<mail>LINJC@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_it,irod_IT_ap,CC_AP2_GP2,ciscovpn,CMDB_USER,ISWP-USR,CC_SD_HOST,AP2,EIPRead_A01419,OU_A01419,headoffice,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>CHIEF</uID>
+			<description>許志輔</description>
+			<title>一等專員</title>
+			<mail>CHIEF@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,CC_AP2_GP1,ciscovpn,CMDB_USER,ISWP-USR,AP2,EIPRead_A01419,EIPEditor_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>YCCHOU</uID>
+			<description>周怡君</description>
+			<title>資深專員</title>
+			<mail>YCCHOU@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_it,irod_IT_ap,CC_AP2_GP2,ciscovpn,CMDB_USER,ISWP-USR,CC_SD_HOST,AP2,EIPRead_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>WISELY</uID>
+			<description>林俊育</description>
+			<title>一等專員</title>
+			<mail>WISELY@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_it,irod_IT_ap,CC_AP2_GP2,CMDB_USER,ISWP-USR,CC_SD_R6,AP2,EIPRead_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>TCB331</uID>
+			<description>張朝富</description>
+			<title>資深專員</title>
+			<mail>TCB331@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_IT_ap,hadms_ap_user,CC_AP2_GP1,ciscovpn,CMDB_USER,ISWP-USR,AP2,EIPRead_A01419,EIPEditor_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ORSSHARE</uID>
+			<description>盧冠豪 (AP存取Share Disk使用)</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ZERO0226</uID>
+			<description>孫郁淩</description>
+			<title>二等專員</title>
+			<mail>ZERO0226@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,PMS_Dept,CC_AP2_GP1,ciscovpn,CMDB_USER,ISWP-USR,AP2,EIPEditor_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>JUV</uID>
+			<description>王彥翔</description>
+			<title>一等專員</title>
+			<mail>JUV@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_it,irod_IT_ap,CC_AP2_GP2,CMDB_USER,ISWP-USR,CC_SD_R6,AP2,EIPRead_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>TEARS</uID>
+			<description>江鎮安</description>
+			<title>二等專員</title>
+			<mail>TEARS@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_it,irod_IT_ap,PMS_Dept,ciscovpn,CMDB_USER,ISWP-USR,AP2,EIPEditor_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>CLTCBSU</uID>
+			<description>林志勳</description>
+			<title />
+			<mail>CLTCBSU@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,ISWP-USR,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>CHOUCC</uID>
+			<description>周佳駿</description>
+			<title>二等專員</title>
+			<mail>CHOUCC@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_it,irod_IT_ap,PMS_Dept,ciscovpn,CMDB_USER,ISWP-USR,AP2,EIPEditor_A01419,OU_A01419,headoffice,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ROGERCHEN</uID>
+			<description>陳維仁</description>
+			<title>二等專員</title>
+			<mail>ROGERCHEN@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_IT_ap,PMS_Dept,CC_AP2_GP1,ciscovpn,CMDB_USER,ISWP-USR,AP2,ClearCase,EIPEditor_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>JWH</uID>
+			<description>周為涵</description>
+			<title>二等專員</title>
+			<mail>JWH@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_IT_ap,CC_AP2_GP1,ciscovpn,CMDB_USER,ISWP-USR,AP2,EIPEditor_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>emdors1</uID>
+			<description>海外分行系統緊急帳號*盧冠豪申請</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>AP2</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>ZOEYWANG</uID>
+			<description>王怡柔</description>
+			<title>二等專員</title>
+			<mail>ZOEYWANG@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,ISWP-USR,AP2,ClearCase,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SHINGTERNG</uID>
+			<description>陳星騰</description>
+			<title>二等專員</title>
+			<mail>SHINGTERNG@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,ISWP-USR,AP2,OU_A01419,headoffice,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>APKP</uID>
+			<description>張凱評</description>
+			<title>二等專員</title>
+			<mail>APKP@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,ISWP-USR,AP2,ClearCase,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>MAURICE</uID>
+			<description>李彥霖</description>
+			<title>二等專員</title>
+			<mail>MAURICE@tcb-bank.com.tw</mail>
+			<memberOf>ORDP_IT_AP,VDI_USER,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,ISWP-USR,AP2,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>DANNYCHEN</uID>
+			<description>陳鋒</description>
+			<title>二等專員</title>
+			<mail>DANNYCHEN@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_it,irod_IT_ap,ciscovpn,CMDB_USER,ISWP-USR,AP2,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>127404</uID>
+			<description>周劭蒓</description>
+			<title>一等專員</title>
+			<mail>127404@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,irod_it,irod_IT_ap,CC_AP2_GP2,CMDB_USER,ISWP-USR,CC_SD_HOST,AP2,EIPRead_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,AP2</info>
+			<ou>AP2</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>JESSEK</uID>
+			<description>官晉吉</description>
+			<title>三等專員</title>
+			<mail>JESSEK@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,WEBCIP,irod_IT_ap,PMS_Dept,CMDB_MANAGER,ciscovpn,CMDB_USER,ISWP-USR,AP1,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專員,0660,AP1</info>
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>QQHAN1208</uID>
+			<description>許舒涵</description>
+			<title>二等專員</title>
+			<mail>QQHAN1208@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,WEBCIP,irod_IT_ap,CMDB_USER,ISWP-USR,AP1,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP1</info>
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SAMMIHUANG</uID>
+			<description>黃美珊</description>
+			<title>三等專員</title>
+			<mail>SAMMIHUANG@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,WEBCIP,irod_IT_ap,CMDB_USER,ISWP-USR,AP1,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專員,0660,AP1</info>
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ADAPTIVAD</uID>
+			<description>ADAPTIVAD</description>
+			<title />
+			<mail>ADAPTIVAD@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,AdaptivManager,AdaptivReport,AdaptivSSOUsers,AdaptivT
+				SSO Users,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>MEIHSIEN</uID>
+			<description>周美嫻</description>
+			<title>二等專員</title>
+			<mail>MEIHSIEN@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,WEBCIP,irod_IT_ap,ciscovpn,CMDB_USER,ISWP-USR,AP1,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP1</info>
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SNOW</uID>
+			<description>呂雪華</description>
+			<title>資深專員</title>
+			<mail>SNOW@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,irod_IT_ap,CMDB_USER,ISWP-USR,AP1,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,AP1</info>
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>WCKPEP</uID>
+			<description>僅供傳收外國高知名度政治人物資料使用</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>AP1</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>RTCAD</uID>
+			<description>RTC*AP1林金發申請</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,JazzAdmins</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>AP1</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>APSEND2</uID>
+			<description>apsend2</description>
+			<title />
+			<mail>APSEND2@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,EIPRead_A01419,OU_A01419</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>APSEND3</uID>
+			<description>apsend3</description>
+			<title />
+			<mail>APSEND3@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,EIPRead_A01419,OU_A01419</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>CHDERF</uID>
+			<description>莊德輝</description>
+			<title>二等專案襄理</title>
+			<mail>CHDERF@tcb-bank.com.tw</mail>
+			<memberOf>GP_AGM,VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,WEBCIP,CMDB_USER,ISWP-USR,AP1,EIPRead_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專案襄理,1125,AP1</info>
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ROSSI</uID>
+			<description>王心怡</description>
+			<title>一等專員</title>
+			<mail>ROSSI@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,WEBCIP,irod_IT_ap,ciscovpn,CMDB_USER,ISWP-USR,AP1,EIPRead_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,AP1</info>
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>JADE</uID>
+			<description>劉麗花</description>
+			<title>二等專案襄理</title>
+			<mail>JADE@tcb-bank.com.tw</mail>
+			<memberOf>GP_AGM,VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,WEBCIP,CMDB_USER,ISWP-USR,AP1,EIPRead_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專案襄理,1125,AP1</info>
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>jan</uID>
+			<description>宋雯貞</description>
+			<title>一等專案襄理兼設計一科副科長</title>
+			<mail>jan@tcb-bank.com.tw</mail>
+			<memberOf>GP_A01419GMSMDM,GP_DM,GP_AGM,VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,WEBCIP,irod_sup,PMS_Dept,CMDB_USER,Cisco_Controller,ISWP-MGR1,AP1,EIPRead_A01419,EIPEditor_A01419,EIPMainEditor,OU_A01419,headoffice,AMSDP</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專案襄理兼設計一科副科長,1262,AP1</info>
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>PHIP</uID>
+			<description>張家豪</description>
+			<title>一等專員</title>
+			<mail>PHIP@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,WEBCIP,irod_IT_ap,CMDB_USER,ISWP-USR,AP1,EIPRead_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,AP1</info>
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>tfc001</uID>
+			<description>陳敏樟</description>
+			<title>二等專員</title>
+			<mail>tfc001@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,WEBCIP,irod_IT_ap,CMDB_USER,ISWP-USR,AP1,EIPRead_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP1</info>
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>JIM</uID>
+			<description>游景成</description>
+			<title>二等專員</title>
+			<mail>JIM@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,WEBCIP,irod_IT_ap,CMDB_USER,ISWP-USR,AP1,EIPRead_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP1</info>
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SHA</uID>
+			<description>沙建意</description>
+			<title>三等專案襄理</title>
+			<mail>SHA@tcb-bank.com.tw</mail>
+			<memberOf>GP_AGM,VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,WEBCIP,irod_IT_ap,CMDB_USER,ISWP-USR,AP1,EIPRead_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專案襄理,1025,AP1</info>
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>yuan</uID>
+			<description>袁志誠</description>
+			<title>資深專員</title>
+			<mail>yuan@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,WEBCIP,irod_IT_ap,CMDB_USER,ISWP-USR,AP1,EIPRead_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,AP1</info>
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>APYVO</uID>
+			<description>張瑜芳</description>
+			<title>資深專員</title>
+			<mail>APYVO@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,WEBCIP,irod_IT_ap,CMDB_USER,ISWP-USR,AP1,EIPRead_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,AP1</info>
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>shirley</uID>
+			<description>林昭秀</description>
+			<title>一等專案襄理兼設計一科科長</title>
+			<mail>shirley@tcb-bank.com.tw</mail>
+			<memberOf>GP_SM,GP_A01419GMSMDM,GP_AGM,VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,WEBCIP,PMS_Dept,CMDB_USER,Cisco_Controller,ISWP-MGR2,AP1,EIPRead_A01419,EIPEditor_A01419,OU_A01419,headoffice,AMSDP</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專案襄理兼設計一科科長,1282,AP1</info>
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>VINCENT828</uID>
+			<description>王右軍</description>
+			<title>二等專員</title>
+			<mail>VINCENT828@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,WEBCIP,irod_IT_ap,PMS_Dept,CMDB_MANAGER,ciscovpn,ISWP-USR,AP1,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP1</info>
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>HYJ</uID>
+			<description>黃育哲</description>
+			<title>資深專員</title>
+			<mail>HYJ@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,WEBCIP,irod_IT_ap,CMDB_USER,ISWP-USR,AP1,EIPRead_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,AP1</info>
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>MEAN</uID>
+			<description>謝志明</description>
+			<title>設計一科副科長</title>
+			<mail>MEAN@tcb-bank.com.tw</mail>
+			<memberOf>GP_A01419GMSMDM,GP_DM,VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,WEBCIP,irod_sup,PMS_Dept,CMDB_USER,Cisco_Controller,ISWP-MGR1,AP1,EIPRead_A01419,EIPEditor_A01419,EIPMainEditor,OU_A01419,headoffice,AMSDP</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,設計一科副科長,1050,AP1</info>
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>hsu</uID>
+			<description>吳旭</description>
+			<title>一等專員</title>
+			<mail>hsu@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_it,WEBCIP,irod_IT_ap,CMDB_USER,ISWP-USR,AP1,EIPRead_A01419,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,AP1</info>
+			<ou>AP1</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>9923741</uID>
+			<description>鄭治堅</description>
+			<title>四等專員</title>
+			<mail>9923741@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,DYNATRACEEA,TWNB_IT_Editor,CMDB_USER,ISWP-USR,CC_EA_NONRA,EAI_MGMUser,ClearCase,EA,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,四等專員,0580,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>PANPOYEN</uID>
+			<description>潘柏沇</description>
+			<title>二等專員</title>
+			<mail>PANPOYEN@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,DYNATRACEEA,TWNB_IT_Editor,CMDB_USER,eATM_SysAdm,ISWP-USR,CC_EA_NONRA,EAI_MGMUser,ClearCase,EA,OU_A01419,A01419Author</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>EADynatrace</uID>
+			<description>蕭鈺弘</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>EA</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>5643-TVUSER</uID>
+			<description>建置互動多媒體螢幕服務*EA林大鈞申請</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,OU_5643</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>EA</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>DOLLARS3</uID>
+			<description>楊善元</description>
+			<title>試用二等專員</title>
+			<mail>DOLLARS3@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,EA,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,試用二等專員,0726,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>HKC23</uID>
+			<description>洪金鍾</description>
+			<title>二等專員</title>
+			<mail>HKC23@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,irod_IT_ap,ciscovpn,CMDB_USER,ISWP-USR,CC_EA_NONRA,CC_EA_RA,ClearCase,EIPRead_A01419,EA,OU_A01419,EDI_IT_User</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>mbaccessadldap</uID>
+			<description>MailBase電子郵件備份系統存取AD LDAP劉耀曾申請</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>MITCHELL</uID>
+			<description>謝明諺</description>
+			<title>一等專員</title>
+			<mail>MITCHELL@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,irod_it,DYNATRACEEA,irod_IT_ap,TWNB_IT_Editor,CMDB_USER,ISWP-USR,CC_EA_NONRA,EA,OU_A01419,EDI_IT_User</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SUJING</uID>
+			<description>鄭素靜</description>
+			<title>三等專案襄理</title>
+			<mail>SUJING@tcb-bank.com.tw</mail>
+			<memberOf>GP_AGM,VDI_USER,coeipvpn,3RDPAY_IT,OU_COEIPUSER,irod_it,irod_IT_ap,CMDB_MANAGER,TWNB_IT_Editor,CMDB_USER,ISWP-USR,CC_EA_NONRA,EA,OU_A01419,headoffice</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專案襄理,1025,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>NICK196</uID>
+			<description>陳彥豪</description>
+			<title>二等專員</title>
+			<mail>NICK196@tcb-bank.com.tw</mail>
+			<memberOf>EACH_IT,coeipvpn,OU_COEIPUSER,HCE_IT_USER,irod_it,PSPTSM_IT,FSMS_QUERY,AA_Admin
+				Creators,MB_IT_USER,TWNB_IT_Editor,CMDB_USER,ISWP-USR,CC_EA_NONRA,EAI_MGMUser,EA,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ANSON.TSAI</uID>
+			<description>蔡孟哲</description>
+			<title>資深專員</title>
+			<mail>ANSON.TSAI@tcb-bank.com.tw</mail>
+			<memberOf>ACLink_IT,coeipvpn,OU_COEIPUSER,DYNATRACEEA,irod_IT_ap,AA_Admin
+				Creators,ciscovpn,TWNB_IT_Editor,AA_Admin,CMDB_USER,Cisco_Controller,ISWP-USR,CC_EA_NONRA,EAI_MGMUser,EA,OU_A01419,EDI_IT_User</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ANYA</uID>
+			<description>戴安雅</description>
+			<title>試用二等專員</title>
+			<mail>ANYA@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,CMDB_USER,ISWP-USR,CC_EA_NONRA,EA,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,試用二等專員,0726,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>JBLIU</uID>
+			<description>劉建邦</description>
+			<title>二等專員</title>
+			<mail>JBLIU@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,irod_IT_ap,FSMS_QUERY,CMDB_USER,ISWP-USR,CC_EA_NONRA,EIPRead_A01419,EA,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>IANTZENG</uID>
+			<description>曾奕祥</description>
+			<title>二等專員</title>
+			<mail>IANTZENG@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,3RDPAY_IT,OU_COEIPUSER,irod_it,DYNATRACEEA,CMDB_MANAGER,MB_IT_USER,CMDB_USER,ISWP-USR,CC_EA_NONRA,EAI_MGMUser,ClearCase,EA,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>MICHAEL12</uID>
+			<description>林大鈞</description>
+			<title>一等專員</title>
+			<mail>MICHAEL12@tcb-bank.com.tw</mail>
+			<memberOf>ACLink_IT,coeipvpn,OU_COEIPUSER,irod_IT_ap,CMDB_USER,ISWP-USR,CC_EA_NONRA,CC_EA_RA,EIPRead_A01419,EA,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>JAIN1111</uID>
+			<description>陳建璋</description>
+			<title>二等專員</title>
+			<mail>JAIN1111@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,DYNATRACEEA,FSMS_QUERY,MB_IT_USER,CMDB_USER,ISWP-USR,CC_EA_NONRA,EAI_MGMUser,ClearCase,EA,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>CCDIFF</uID>
+			<description>CQ Register Server Service Account</description>
+			<title />
+			<mail>CCDIFF@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,DC_DEPLOY,ClearCase,EIPRead_A01419,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>JOSEPH</uID>
+			<description>陳隆嘉</description>
+			<title>三等專員</title>
+			<mail>JOSEPH@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,MAILBASE_BusADM,MAILBASE_User,coeipvpn,OU_COEIPUSER,irod_it,MAILBASE_SysADM,TWNB_IT_Editor,CMDB_USER,ISWP-USR,CC_EA_NONRA,CC_EA_RA,ClearCase,EA,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專員,0660,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ALEX123</uID>
+			<description>李建榮</description>
+			<title>二等專員</title>
+			<mail>ALEX123@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,HCE_IT_USER,PSPTSM_IT,DYNATRACEEA,MB_IT_USER,CMDB_USER,ISWP-USR,CC_EA_NONRA,EAI_MGMUser,CC_EA_RA,ClearCase,EA,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>BRYAN</uID>
+			<description>吳政修</description>
+			<title>一等專員</title>
+			<mail>BRYAN@tcb-bank.com.tw</mail>
+			<memberOf>EACH_IT,MAILBASE_User,coeipvpn,OU_COEIPUSER,HCE_IT_USER,PSPTSM_IT,irod_IT_ap,PMS_Dept,CMDB_MANAGER,AA_Admin
+				Creators,MB_IT_USER,TWNB_IT_Editor,CMDB_USER,Cisco_Controller,ISWP-USR,CC_EA_NONRA,EIPRead_A01419,EA,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>MATTHSIAO</uID>
+			<description>蕭鈺弘</description>
+			<title>二等專員</title>
+			<mail>MATTHSIAO@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,DYNATRACEEA,irod_IT_ap,ciscovpn,TWNB_IT_Editor,CMDB_USER,ISWP-USR,CC_EA_NONRA,EAI_MGMUser,CC_EA_RA,ClearCase,EA,EIPEditor_A01419,EIPMainEditor,OU_A01419,A01419Author</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>lwc</uID>
+			<description>林萬成</description>
+			<title>資深專員</title>
+			<mail>lwc@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,MAILBASE_User,coeipvpn,OU_COEIPUSER,irod_it,DYNATRACEEA,irod_IT_ap,TWNB_IT_Editor,CMDB_USER,ISWP-USR,CC_EA_NONRA,CC_EA_RA,EIPRead_A01419,EA,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>COA999</uID>
+			<description>電子對帳單系統退信</description>
+			<title />
+			<mail>COA999@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,EIPRead_A01419,OU_A01419</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊處,A01419,A01419,0010,0410,三等襄理,1010,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>JEFF_LEE</uID>
+			<description>李家福</description>
+			<title>資深專員</title>
+			<mail>JEFF_LEE@tcb-bank.com.tw</mail>
+			<memberOf>MAILBASE_User,coeipvpn,OU_COEIPUSER,irod_IT_ap,AA_Admin
+				Creators,ciscovpn,MB_IT_USER,TWNB_IT_Editor,CMDB_USER,Cisco_Controller,eATM_SysAdm,ISWP-USR,CC_EA_NONRA,EAI_MGMUser,EIPRead_A01419,EA,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>sophie</uID>
+			<description>張淑蕙</description>
+			<title>一等專案襄理兼電子商務科科長</title>
+			<mail>sophie@tcb-bank.com.tw</mail>
+			<memberOf>ACLink_IT,GP_SM,GP_A01419GMSMDM,GP_AGM,VDI_USER,EDI_IT_Manager,MAILBASE_BusADM,MAILBASE_AcntADM,coeipvpn,OU_COEIPUSER,HCE_IT_MAGER,irod_it,FSMS_ADMIN,irod_sup,PMS_Dept,MAILBASE_SysADM,ciscovpn,TWNB_Approver,CMDB_USER,Cisco_Controller,ISWP-MGR2,MB_IT_ADM,EA_ADM,EA_HK,EIPRead_A01419,EA,EIPEditor_A01419,OU_A01419,headoffice,A01419Editor1</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專案襄理兼電子商務科科長,1282,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>shangwu</uID>
+			<description>吳孟珊</description>
+			<title>電子商務科副科長</title>
+			<mail>shangwu@tcb-bank.com.tw</mail>
+			<memberOf>ACLink_IT,GP_A01419GMSMDM,GP_DM,EACH_IT,VDI_USER,EDI_IT_Manager,MAILBASE_AcntADM,coeipvpn,OU_COEIPUSER,HCE_IT_MAGER,irod_it,FSMS_ADMIN,irod_sup,ciscovpn,AA_Admin,TWNB_Approver,CMDB_USER,Cisco_Controller,ISWP-MGR1,eATM_SysAdm,MB_IT_ADM,CC_EA_NONRA,EAI_MGMUser,EIPRead_A01419,EA,EIPEditor_A01419,EIPMainEditor,OU_A01419,headoffice,A01419Editor1,A01419Author</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,電子商務科副科長,1050,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>JIMMYLEETW</uID>
+			<description>李明羲</description>
+			<title>電子商務科副科長</title>
+			<mail>JIMMYLEETW@tcb-bank.com.tw</mail>
+			<memberOf>ACLink_IT,GP_A01419GMSMDM,GP_DM,VDI_USER,MAILBASE_BusADM,MAILBASE_AcntADM,coeipvpn,OU_COEIPUSER,HCE_IT_MAGER,irod_it,FSMS_ADMIN,irod_sup,PMS_Dept,MAILBASE_SysADM,ciscovpn,AA_Admin,TWNB_Approver,CMDB_USER,Cisco_Controller,ISWP-MGR1,eATM_SysAdm,CC_EA_NONRA,EAI_MGMUser,EIPRead_A01419,EA,EIPEditor_A01419,EIPMainEditor,OU_A01419,A01419Author</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,電子商務科副科長,1050,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>KEITH</uID>
+			<description>彭裕宣</description>
+			<title>一等專員</title>
+			<mail>KEITH@tcb-bank.com.tw</mail>
+			<memberOf>MAILBASE_BusADM,MAILBASE_User,coeipvpn,OU_COEIPUSER,DYNATRACEEA,irod_IT_ap,MAILBASE_SysADM,AA_Admin
+				Creators,ciscovpn,MB_IT_USER,TWNB_IT_Editor,CMDB_USER,Cisco_Controller,ISWP-USR,CC_EA_NONRA,EAI_MGMUser,ClearCase,EA,EIPEditor_A01419,EIPMainEditor,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>STACYKU</uID>
+			<description>顧辰妘</description>
+			<title>二等專員</title>
+			<mail>STACYKU@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_IT_ap,AA_Admin
+				Creators,ciscovpn,TWNB_IT_Editor,CMDB_USER,Cisco_Controller,eATM_SysAdm,ISWP-USR,CC_EA_NONRA,EA,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>YINGBIN</uID>
+			<description>陳穎斌</description>
+			<title>二等專員</title>
+			<mail>YINGBIN@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,MB_IT_USER,TWNB_IT_Editor,CMDB_USER,ISWP-USR,CC_EA_NONRA,ClearCase,EA,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>emdea1</uID>
+			<description>EA科緊急使用者代碼*EA李明羲申請</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,EA,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>GOLFGTI</uID>
+			<description>廖佑錚</description>
+			<title>四等專員</title>
+			<mail>GOLFGTI@tcb-bank.com.tw</mail>
+			<memberOf>EACH_IT,VDI_USER,OU_COEIPUSER,MB_IT_USER,TWNB_IT_Editor,CMDB_USER,ISWP-USR,CC_EA_NONRA,ClearCase,EA,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,四等專員,0580,EA</info>
+			<ou>EA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ASync</uID>
+			<description>檢測首長手機ActiveSync功能</description>
+			<title />
+			<mail>ASync@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>public</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>ESTKGuest</uID>
+			<description />
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>public</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>BARRYTSAI</uID>
+			<description>蔡鎮羽</description>
+			<title>試用二等專員</title>
+			<mail>BARRYTSAI@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,MNM_ELOAN,CMDB_USER,ISWP-USR,CC_AP3_GP2,CC_AP3_ALL,AP3,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,試用二等專員,0726,AP3</info>
+			<ou>AP3</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ZW.LIAO</uID>
+			<description>廖政幃</description>
+			<title>試用二等專員</title>
+			<mail>ZW.LIAO@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,hadms_ap_user,CMDB_USER,ISWP-USR,CC_AP3_GP1,SCCM_SVSBRS_QRY,CC_AP3_ALL,AP3,OU_A01419,SCCM_ETABSTST_QRY,SCCM_ETABSTST_OP,MNM_ETABS,SCCM_ETABS_QRY</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,試用二等專員,0726,AP3</info>
+			<ou>AP3</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SHENGCHA</uID>
+			<description>張國勝</description>
+			<title>一等專案襄理兼設計三科科長</title>
+			<mail>SHENGCHA@tcb-bank.com.tw</mail>
+			<memberOf>GP_SM,GP_A01419GMSMDM,GP_AGM,VDI_USER,coeipvpn,OU_COEIPUSER,PMS_PT,PMS_Dept,PEM_QRY,MNM_ELOAN,CMDB_USER,Cisco_Controller,ISWP-MGR2,AP3_ADM,CC_AP3_GP1,CC_AP3_GP2,CC_AP3_ALL,AP3,EIPEditor_A01419,OU_A01419,MNM_ETABS,HostUnit</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專案襄理兼設計三科科長,1282,AP3</info>
+			<ou>AP3</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>YENHAN0130</uID>
+			<description>謝雁涵</description>
+			<title>三等專員</title>
+			<mail>YENHAN0130@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,hadms_ap_user,CMDB_USER,ISWP-USR,CC_AP3_GP1,SCCM_SVSBRS_QRY,CC_AP3_GP2,CC_AP3_ALL,AP3,OU_A01419,SCCM_ETABSTST_QRY,SCCM_ETABSTST_OP,MNM_ETABS,SCCM_ETABS_QRY</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專員,0660,AP3</info>
+			<ou>AP3</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>VIVIANLI</uID>
+			<description>林佳蓁</description>
+			<title>二等專員</title>
+			<mail>VIVIANLI@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,MNM_ELOAN,CMDB_USER,ISWP-USR,CC_AP3_GP1,SCCM_SVSBRS_QRY,CC_AP3_GP2,CC_AP3_ALL,AP3,EIPEditor_A01419,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP3</info>
+			<ou>AP3</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>BFAGENT</uID>
+			<description>BuildForge包版使用</description>
+			<title />
+			<mail>BFAGENT@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,DC_DEPLOY,ClearCase,EIPRead_A01419,OU_A01419</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>AP3</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>raistlin</uID>
+			<description>林昕儒</description>
+			<title>一等專員</title>
+			<mail>raistlin@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_IT_ap,PMS_Dept,hadms_ap_user,PEM_QRY,CMDB_MANAGER,CMDB_USER,ISWP-USR,CC_AP3_GP1,SCCM_SVSBRS_QRY,CC_AP3_ALL,AP3,EIPRead_A01419,EIPEditor_A01419,OU_A01419,SCCM_ETABSTST_QRY,SCCM_ETABSTST_OP,MNM_ETABS,SCCM_ETABS_QRY</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,AP3</info>
+			<ou>AP3</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SCCM_APV</uID>
+			<description>SCCM系統服務帳號</description>
+			<title />
+			<mail>SCCM_APV@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,EIPRead_A01419,OU_A01419</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊處,A01419,A01419,0010,0410,三等襄理,1010,AP3</info>
+			<ou>AP3</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ETABSAD</uID>
+			<description>ETABS系統服務帳號</description>
+			<title />
+			<mail>ETABSAD@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,EIPRead_A01419,OU_A01419</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>AP3</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>YICHUNKUO</uID>
+			<description>郭逸</description>
+			<title>資深專員</title>
+			<mail>YICHUNKUO@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_IT_ap,hadms_ap_user,MNM_ELOAN,CMDB_USER,ISWP-USR,CC_AP3_GP1,SCCM_SVSBRS_QRY,CC_AP3_GP2,CC_AP3_ALL,AP3,ClearCase,EIPRead_A01419,EIPEditor_A01419,OU_A01419,SCCM_ETABSTST_QRY,SCCM_ETABSTST_OP,MNM_ETABS,SCCM_ETABS_QRY</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,AP3</info>
+			<ou>AP3</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>evergreen</uID>
+			<description>周長青</description>
+			<title>二等專案襄理兼設計三科副科長</title>
+			<mail>evergreen@tcb-bank.com.tw</mail>
+			<memberOf>GP_A01419GMSMDM,GP_DM,GP_AGM,VDI_USER,coeipvpn,OU_COEIPUSER,WEBCIP,PMS_PT,PMS_Dept,PEM_QRY,MNM_ELOAN,CMDB_USER,ISWP-MGR1,CC_AP3_GP1,CC_AP3_GP2,CC_AP3_ALL,AP3,EIPRead_A01419,EIPEditor_A01419,OU_A01419,MNM_ETABS,SCCM_ETABS_QRY,HostUnit</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專案襄理兼設計三科副科長,1182,AP3</info>
+			<ou>AP3</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>AVRIL</uID>
+			<description>林芳夙</description>
+			<title>資深專員</title>
+			<mail>AVRIL@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,MNM_ELOAN,CMDB_USER,ISWP-USR,CC_AP3_GP2,CC_AP3_ALL,AP3,EIPRead_A01419,EIPEditor_A01419,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,AP3</info>
+			<ou>AP3</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>changtc</uID>
+			<description>陳建彰</description>
+			<title>二等專員</title>
+			<mail>changtc@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,MNM_ELOAN,CMDB_USER,ISWP-USR,CC_AP3_GP2,CC_AP3_ALL,AP3,EIPRead_A01419,EIPEditor_A01419,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP3</info>
+			<ou>AP3</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SHUIAN</uID>
+			<description>黃懿萱</description>
+			<title>二等專員</title>
+			<mail>SHUIAN@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,MNM_ELOAN,CMDB_USER,ISWP-USR,CC_AP3_GP1,SCCM_SVSBRS_QRY,CC_AP3_GP2,CC_AP3_ALL,AP3,EIPRead_A01419,EIPEditor_A01419,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP3</info>
+			<ou>AP3</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>BENSONCHEN</uID>
+			<description>陳元翔</description>
+			<title>二等專員</title>
+			<mail>BENSONCHEN@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,hadms_ap_user,MNM_ELOAN,CMDB_USER,ISWP-USR,CC_AP3_GP1,SCCM_SVSBRS_QRY,CC_AP3_GP2,CC_AP3_ALL,AP3,EIPEditor_A01419,OU_A01419,SCCM_ETABSTST_QRY,SCCM_ETABSTST_OP,MNM_ETABS,SCCM_ETABS_QRY</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,AP3</info>
+			<ou>AP3</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>EMDAP3</uID>
+			<description>測試所屬系統之用*AP3申請</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,SVSHQDP,CC_AP3_GP1,SCCM_SVSBRS_QRY,SVSQuery,CC_AP3_GP2,CC_AP3_ALL,AP3,ClearCase,EIPRead_A01419,OU_A01419,SCCM_ETABSTST_QRY,MNM_ETABS,SCCM_ETABS_QRY</memberOf>
+			<department>資訊部</department>
+			<departmentNumber />
+			<info />
+			<ou>AP3</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>PEMLOGAC</uID>
+			<description>自動補摺機集中管理系統LOG下載使用(AP3林昕儒申請)</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>AP3</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>LARRY0478</uID>
+			<description>陳宥成</description>
+			<title>一等專員</title>
+			<mail>LARRY0478@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,PMS_Dept,hadms_ap_user,PEM_QRY,MNM_ELOAN,CMDB_USER,ISWP-USR,CC_AP3_GP1,SCCM_SVSBRS_QRY,CC_AP3_GP2,CC_AP3_ALL,AP3,EIPEditor_A01419,OU_A01419,SCCM_ETABSTST_QRY,SCCM_ETABSTST_OP,MNM_ETABS,SCCM_ETABS_QRY</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,AP3</info>
+			<ou>AP3</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SUFENLEE</uID>
+			<description>李素芬</description>
+			<title>三等專員</title>
+			<mail>SUFENLEE@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,PMS_Dept,MNM_ELOAN,CMDB_MANAGER,CMDB_USER,ISWP-USR,CC_AP3_GP1,SCCM_SVSBRS_QRY,CC_AP3_GP2,CC_AP3_ALL,AP3,EIPEditor_A01419,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專員,0660,AP3</info>
+			<ou>AP3</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>JANICELIN</uID>
+			<description>林哲菁</description>
+			<title>試用二等專員</title>
+			<mail>JANICELIN@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,MNM_ELOAN,CMDB_USER,ISWP-USR,CC_AP3_GP2,CC_AP3_ALL,AP3,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,試用二等專員,0726,AP3</info>
+			<ou>AP3</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>YUSHU</uID>
+			<description>古育書</description>
+			<title>二等專員</title>
+			<mail>YUSHU@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,ODMS_ADMIN,coeipvpn,OU_COEIPUSER,SP_NT,SysDirNtAdmins,CMDB_MANAGER,SCOM_M_SYS,ciscovpn,SCOM_M_ALL,CMDB_USER,SCOM_Report,ISWP-USR,EIPRead_A01419,OU_A01419,headoffice,SP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ANDREWCHEN</uID>
+			<description>陳安德</description>
+			<title>二等專員</title>
+			<mail>ANDREWCHEN@tcb-bank.com.tw</mail>
+			<memberOf>automation_admin,VDI_USER,ODMS_ADMIN,coeipvpn,OU_COEIPUSER,SP_NT,SCCM_SYS,SysDirNtAdmins,SCOM_M_SYS,ciscovpn,SCOM_M_ALL,CMDB_USER,SCOM_Report,ISWP-USR,SCCM_SVSBRS_QRY,EIPRead_A01419,OU_A01419,SCCM_ETABSTST_QRY,SCCM_ETABS_QRY,SP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ALLENYU</uID>
+			<description>俞彥宏</description>
+			<title>三等專員</title>
+			<mail>ALLENYU@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,SP_DC,OU_COEIPUSER,ciscovpn,CMDB_USER,ISWP-USR,EIPRead_A01419,OU_A01419,SPDC,MNM_ETABS,SP,IP_IN,AMSDP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專員,0660,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>LIMINHAO</uID>
+			<description>李旻</description>
+			<title>三等專員</title>
+			<mail>LIMINHAO@tcb-bank.com.tw</mail>
+			<memberOf>automation_admin,VDI_USER,ODMS_ADMIN,coeipvpn,OU_COEIPUSER,SP_NT,SCCM_SYS,SysDirNtAdmins,SCOM_M_SYS,ciscovpn,SCOM_M_ALL,CMDB_USER,SCOM_Report,ISWP-USR,SCCM_SVSBRS_QRY,EIPRead_A01419,OU_A01419,SCCM_ETABSTST_QRY,headoffice,SCCM_ETABS_QRY,SP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專員,0660,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>FRED2357</uID>
+			<description>蔡富名</description>
+			<title>二等專員</title>
+			<mail>FRED2357@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,SP_DC,OU_COEIPUSER,CMDB_MANAGER,ciscovpn,CMDB_USER,FHSHM_ReadOnly,ISWP-USR,EIPRead_A01419,OU_A01419,SPDC,MNM_ETABS,SP,IP_IN,AMSDP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>MXINTADM</uID>
+			<description>TSRM系統的整合管理者帳號*關志宇申請</description>
+			<title />
+			<mail>MXINTADM@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,ISWP-USR,MAXIMOUSERS,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>RODCOJD</uID>
+			<description>海外分行離線加入網域系統帳號</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>MAXREG</uID>
+			<description>TSRM系統的整合管理者帳號*關志宇申請</description>
+			<title />
+			<mail>MAXREG@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,ISWP-USR,MAXADMIN,MAXIMOUSERS,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SJCHANG</uID>
+			<description>張書榮</description>
+			<title>一等專員</title>
+			<mail>SJCHANG@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,SP_NT,ODMS_SPCHR,CMDB_USER,ISWP-USR,EIPRead_A01419,OU_A01419,headoffice,SP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>VINCENT.W</uID>
+			<description>王柏棋</description>
+			<title>二等專員</title>
+			<mail>VINCENT.W@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,IDM_User,R6TEAM,ciscovpn,SP_R6,SysDirR6Admins,CMDB_USER,ISWP-USR,EIPRead_A01419,OU_A01419,SP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>KURTLIU</uID>
+			<description>劉建衡</description>
+			<title>二等專員</title>
+			<mail>KURTLIU@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,MQTEAM,OU_COEIPUSER,IDM_User,SP_MQ,ciscovpn,CMDB_USER,ISWP-USR,EIPRead_A01419,EIPEditor_A01419,OU_A01419,SP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SPNT08</uID>
+			<description>系統科Windows組TCB管理者08</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,NTTEAM</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>WSUSDEP</uID>
+			<description>WSUS派送ADOBE相關程式*林肇國</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>TCBPP</uID>
+			<description>金邊分行專用公用帳號</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>TCBMONITORS</uID>
+			<description>TCBMONITORS</description>
+			<title />
+			<mail>TCBMONITORS@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,CMDB_USER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>lynctest2</uID>
+			<description />
+			<title />
+			<mail>lynctest2@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>ipscan</uID>
+			<description>IPSCAN管理系統整合AD</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,CMDB_USER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>WUHAN</uID>
+			<description>鄔宗翰</description>
+			<title>三等專員</title>
+			<mail>WUHAN@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,IDM_User,R6TEAM,CMDB_MANAGER,ciscovpn,SP_R6,SysDirR6Admins,CMDB_USER,ISWP-USR,EIPRead_A01419,OU_A01419,SP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專員,0660,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SWCHUANG</uID>
+			<description>莊盛文</description>
+			<title>四等專員</title>
+			<mail>SWCHUANG@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,CMDB_MANAGER,ciscovpn,CMDB_USER,ISWP-USR,EIPRead_A01419,OU_A01419,SP_AS400MVS,SP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,四等專員,0580,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SPBRNT03</uID>
+			<description>系統科Windows組TCB海外分行管理者03</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,BRNTTeam</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>WEICHEN</uID>
+			<description>陳威成</description>
+			<title>資深專員</title>
+			<mail>WEICHEN@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,ciscovpn,CMDB_USER,ISWP-USR,EIPRead_A01419,EIPEditor_A01419,OU_A01419,SP_AS400MVS,SP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>lynctest1</uID>
+			<description />
+			<title />
+			<mail>lynctest1@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,LYNC_GROUP1,RTCUniversalServerAdmins</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>LCK3386</uID>
+			<description>林肇國</description>
+			<title>系統管理科副科長</title>
+			<mail>LCK3386@tcb-bank.com.tw</mail>
+			<memberOf>GP_A01419GMSMDM,GP_DM,VDI_USER,F_DOWNLOAD_APPROVE,coeipvpn,OU_COEIPUSER,irod_sup,PMS_Dept,ODMS_SPCHR,SP_OPEN,SCCM_SYS,SysDirNtAdmins,SCOM_M_SYS,ciscovpn,SP_ADM,SPSEC,SCOM_M_ALL,CMDB_USER,SCOM_Report,ISWP-MGR1,SCCM_SVSBRS_QRY,EIPRead_A01419,OU_A01419,SCCM_ETABSTST_QRY,headoffice,SCCM_ETABS_QRY,SP</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,系統管理科副科長,1050,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SPNT03</uID>
+			<description>系統科Windows組TCB管理者03</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,NTTEAM</memberOf>
+			<department>暫存單位</department>
+			<departmentNumber>999999</departmentNumber>
+			<info>暫存單位,999999,999999,999999,999999</info>
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>SPBRNT06</uID>
+			<description>系統科Windows組TCB海外分行管理者06</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,BRNTTeam</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>JEAN3355</uID>
+			<description>簡育群</description>
+			<title>二等專員</title>
+			<mail>JEAN3355@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,MQTEAM,OU_COEIPUSER,IDM_User,SP_MQ,ciscovpn,CMDB_USER,ISWP-USR,EIPRead_A01419,EIPEditor_A01419,OU_A01419,SP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SPNT05</uID>
+			<description>系統科Windows組TCB管理者05</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,NTTEAM</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>BENSON.LEE</uID>
+			<description>李天生</description>
+			<title>三等專員</title>
+			<mail>BENSON.LEE@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,IDM_User,R6TEAM,CMDB_MANAGER,ciscovpn,SP_R6,SysDirR6Admins,CMDB_USER,ISWP-USR,EIPRead_A01419,OU_A01419,SP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專員,0660,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SPNT07</uID>
+			<description>系統科Windows組TCB管理者07</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,NTTEAM</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>opmenu</uID>
+			<description />
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,OPSEC</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>scomrw</uID>
+			<description>scom2012服務帳號</description>
+			<title />
+			<mail />
+			<memberOf>SCOM2016,OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>PETERHSU</uID>
+			<description>許晉寧</description>
+			<title>試用三等專員</title>
+			<mail>PETERHSU@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,MQTEAM,OU_COEIPUSER,SP_MQ,ciscovpn,CMDB_USER,ISWP-USR,EIPRead_A01419,OU_A01419,SP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,試用三等專員,0626,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>CONANLEE</uID>
+			<description>李明全</description>
+			<title>試用三等專員</title>
+			<mail>CONANLEE@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,R6TEAM,ciscovpn,SP_R6,SysDirR6Admins,CMDB_USER,ISWP-USR,EIPRead_A01419,OU_A01419,SP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,試用三等專員,0626,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>IVERSON</uID>
+			<description>鄭競元</description>
+			<title>一等專員</title>
+			<mail>IVERSON@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,ciscovpn,CMDB_USER,ISWP-USR,SP_IMS,EIPRead_A01419,OU_A01419,SP,AMSDP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>WEIYU</uID>
+			<description>詹惟宇</description>
+			<title>二等專員</title>
+			<mail>WEIYU@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,SP_DC,OU_COEIPUSER,ciscovpn,CMDB_USER,ISWP-USR,EIPRead_A01419,OU_A01419,SPDC,MNM_ETABS,SP,IP_IN,AMSDP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>LYNCTEST4</uID>
+			<description />
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>SPBRNT01</uID>
+			<description>系統科Windows組TCB海外分行管理者01</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,BRNTTeam</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>ODMS-VPC</uID>
+			<description>ODMS擴充案虛擬PC加入網域測試用</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>TCBWAYNE</uID>
+			<description>侯憲瑋</description>
+			<title>二等專員</title>
+			<mail>TCBWAYNE@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,PMS_Dept,ciscovpn,CMDB_USER,ISWP-USR,EIPRead_A01419,EIPEditor_A01419,OU_A01419,SP_AS400MVS,SP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>CHIHLIN</uID>
+			<description>張志麟</description>
+			<title>二等專員</title>
+			<mail>CHIHLIN@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,IDM_User,R6TEAM,CMDB_MANAGER,ciscovpn,SP_R6,SysDirR6Admins,CMDB_USER,ISWP-USR,EIPRead_A01419,OU_A01419,SP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>MAXADMINS</uID>
+			<description>TSRM系統的管理者帳號*關志宇申請</description>
+			<title />
+			<mail>MAXADMIN@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,MAXADMIN,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SUNNYCHIU</uID>
+			<description>邱歆錞</description>
+			<title>三等專員</title>
+			<mail>SUNNYCHIU@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,MQTEAM,OU_COEIPUSER,IDM_User,SP_MQ,CMDB_MANAGER,ciscovpn,CMDB_ADMIN,CMDB_USER,ISWP-USR,EIPRead_A01419,OU_A01419,SP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專員,0660,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>LYNCTEST5</uID>
+			<description />
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>CHENKY</uID>
+			<description>陳冠穎</description>
+			<title>三等專員</title>
+			<mail>CHENKY@tcb-bank.com.tw</mail>
+			<memberOf>automation_admin,VDI_USER,ODMS_ADMIN,coeipvpn,OU_COEIPUSER,SP_NT,ODMS_SPCHR,SP_OPEN,SCCM_SYS,SysDirNtAdmins,SCOM_M_SYS,ciscovpn,SCOM_M_ALL,CMDB_USER,SCOM_Report,ISWP-USR,SCCM_SVSBRS_QRY,EIPRead_A01419,OU_A01419,SCCM_ETABSTST_QRY,headoffice,SCCM_ETABS_QRY,SP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專員,0660,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>TSRMWAS</uID>
+			<description>TSRM系統WebSphere的管理者帳號*簡育群申請</description>
+			<title />
+			<mail>TSRMWAS@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SPNT06</uID>
+			<description>系統科Windows組TCB管理者06</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,NTTEAM</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>ALARMTST</uID>
+			<description>監控系統測試環境發Mail使用</description>
+			<title />
+			<mail>ALARMTST@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,EIPRead_A01419,OU_A01419</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SPBRNT02</uID>
+			<description>系統科Windows組TCB海外分行管理者02</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,BRNTTeam</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>CCALBD</uID>
+			<description>SPUSER FOR CC_ALBD</description>
+			<title />
+			<mail>CCALBD@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,ClearCase,EIPRead_A01419,OU_A01419</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊處,A01419,A01419,0010,0410,三等襄理,1010,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SPBRNT05</uID>
+			<description>系統科Windows組TCB海外分行管理者05</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,BRNTTeam</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>automation</uID>
+			<description>測試雲LDAP帳號</description>
+			<title />
+			<mail />
+			<memberOf>automation_op,OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>SPNT02</uID>
+			<description>系統科Windows組TCB管理者02</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,NTTEAM</memberOf>
+			<department>信維分行</department>
+			<departmentNumber>I136</departmentNumber>
+			<info>信維分行,5090,I136,5090,1969</info>
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>szi</uID>
+			<description>許正義</description>
+			<title>資深專員</title>
+			<mail>szi@tcb-bank.com.tw</mail>
+			<memberOf>EACH_IT,coeipvpn,SP_OP,OU_COEIPUSER,irod_IT_op,PEM_OP,SCOM_M_ALL,CMDB_USER,TSRM-OP,EAI_MGMUser,EIPRead_A01419,OU_A01419,headoffice,CQOP,SP,AMSDP,F_DOWNLOAD,OPSEC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SPNT04</uID>
+			<description>系統科Windows組TCB管理者04</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,NTTEAM</memberOf>
+			<department>暫存單位</department>
+			<departmentNumber>999999</departmentNumber>
+			<info>暫存單位,999999,999999,999999,999999</info>
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>VALLEYCHEN</uID>
+			<description>陳逸鴻</description>
+			<title>二等專員</title>
+			<mail>VALLEYCHEN@tcb-bank.com.tw</mail>
+			<memberOf>EACH_IT,coeipvpn,SP_OP,OU_COEIPUSER,irod_IT_op,PEM_OP,SCOM_M_ALL,CMDB_USER,TSRM-OP,EAI_MGMUser,EIPRead_A01419,OU_A01419,headoffice,CQOP,SP,AMSDP,F_DOWNLOAD,OPSEC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SqlAdmin2</uID>
+			<description>SQL資料庫服務啟動專用帳號2</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,EIPRead_A01419,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SKYHO221</uID>
+			<description>何英誌</description>
+			<title>四等專員</title>
+			<mail>SKYH0221@tcb-bank.com.tw</mail>
+			<memberOf>EACH_IT,coeipvpn,SP_OP,OU_COEIPUSER,ISWP-USR,OU_A01419,SP</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,四等專員,0580,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>nice</uID>
+			<description>李國祥</description>
+			<title>資深專員</title>
+			<mail>nice@tcb-bank.com.tw</mail>
+			<memberOf>EACH_IT,coeipvpn,SP_OP,OU_COEIPUSER,irod_IT_op,PEM_OP,SCOM_M_ALL,CMDB_USER,TSRM-OP,EAI_MGMUser,EIPRead_A01419,OU_A01419,headoffice,CQOP,SP,AMSDP,F_DOWNLOAD,OPSEC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SqlAdmin1</uID>
+			<description>SQL資料庫服務啟動專用帳號1</description>
+			<title />
+			<mail />
+			<memberOf>MBAMClient,MBAMRetportUsers,MBAMHelpdeskUsers,MBAMAdvHelpdeskUsers,OU_COEIPUSER,EIPRead_A01419,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>wds</uID>
+			<description>吳東昇</description>
+			<title>一等專員</title>
+			<mail>wds@tcb-bank.com.tw</mail>
+			<memberOf>EACH_IT,coeipvpn,SP_OP,OU_COEIPUSER,irod_IT_op,PEM_OP,SCOM_M_ALL,CMDB_USER,TSRM-OP,EAI_MGMUser,EIPRead_A01419,OU_A01419,headoffice,CQOP,SP,AMSDP,F_DOWNLOAD,OPSEC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>MICK0513</uID>
+			<description>邱嘉竣</description>
+			<title>四等專員</title>
+			<mail>MICK0513@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,SP_OP,OU_COEIPUSER,irod_IT_op,PEM_OP,SPSEC,SCOM_M_ALL,CMDB_USER,TSRM-OP,EAI_MGMUser,EIPRead_A01419,EIPEditor_A01419,OU_A01419,headoffice,CQOP,SP,AMSDP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,四等專員,0580,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>FELIXCAO</uID>
+			<description>高哲峰</description>
+			<title>一等專員</title>
+			<mail>FELIXCAO@tcb-bank.com.tw</mail>
+			<memberOf>EACH_IT,coeipvpn,SP_OP,OU_COEIPUSER,irod_IT_op,PEM_OP,SCOM_M_ALL,CMDB_USER,TSRM-OP,EAI_MGMUser,EIPRead_A01419,OU_A01419,headoffice,CQOP,SP,AMSDP,F_DOWNLOAD,OPSEC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>JOSHUA</uID>
+			<description>魏嘉男</description>
+			<title>二等專員</title>
+			<mail>JOSHUA@tcb-bank.com.tw</mail>
+			<memberOf>EACH_IT,coeipvpn,SP_OP,OU_COEIPUSER,irod_IT_op,PEM_OP,SCOM_M_ALL,CMDB_USER,TSRM-OP,EAI_MGMUser,EIPRead_A01419,OU_A01419,headoffice,CQOP,SP,AMSDP,F_DOWNLOAD,OPSEC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>chc</uID>
+			<description>闕清華</description>
+			<title>一等專員</title>
+			<mail>chc@tcb-bank.com.tw</mail>
+			<memberOf>EACH_IT,coeipvpn,SP_OP,OU_COEIPUSER,irod_IT_op,PEM_OP,SCOM_M_ALL,CMDB_USER,TSRM-OP,EAI_MGMUser,EIPRead_A01419,OU_A01419,headoffice,CQOP,SP,AMSDP,F_DOWNLOAD,OPSEC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SUNYU</uID>
+			<description>孫聿新</description>
+			<title>二等專員</title>
+			<mail>SUNYU@tcb-bank.com.tw</mail>
+			<memberOf>EACH_IT,coeipvpn,SP_OP,OU_COEIPUSER,irod_IT_op,PEM_OP,SCOM_M_ALL,CMDB_USER,TSRM-OP,EAI_MGMUser,EIPRead_A01419,OU_A01419,headoffice,CQOP,SP,AMSDP,F_DOWNLOAD,OPSEC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>che</uID>
+			<description>陳輝棨</description>
+			<title>資深專員</title>
+			<mail>che@tcb-bank.com.tw</mail>
+			<memberOf>EACH_IT,coeipvpn,SP_OP,OU_COEIPUSER,irod_IT_op,PEM_OP,SCOM_M_ALL,CMDB_USER,TSRM-OP,EAI_MGMUser,EIPRead_A01419,OU_A01419,headoffice,CQOP,SP,AMSDP,F_DOWNLOAD,OPSEC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SPBRNT08</uID>
+			<description>系統科Windows組TCB海外分行管理者08</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,BRNTTeam</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>guardium</uID>
+			<description>Guardium系統報表設定及寄送</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>lcy</uID>
+			<description>林清淵</description>
+			<title>三等專案襄理</title>
+			<mail>lcy@tcb-bank.com.tw</mail>
+			<memberOf>GP_AGM,EACH_IT,coeipvpn,SP_OP,OU_COEIPUSER,irod_IT_op,PEM_OP,SCOM_M_ALL,CMDB_USER,TSRM-OP,EAI_MGMUser,EIPRead_A01419,OU_A01419,headoffice,CQOP,SP,AMSDP,F_DOWNLOAD,OPSEC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專案襄理,1025,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>OZAKLY</uID>
+			<description>陳彥安</description>
+			<title>二等專員</title>
+			<mail>OZAKLY@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,IDM_User,R6TEAM,PMS_Dept,ciscovpn,SP_R6,SysDirR6Admins,CMDB_USER,ISWP-USR,EIPRead_A01419,OU_A01419,SP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>TODO</uID>
+			<description>李哲仁</description>
+			<title>資深專員</title>
+			<mail>TODO@tcb-bank.com.tw</mail>
+			<memberOf>EACH_IT,coeipvpn,SP_OP,OU_COEIPUSER,irod_IT_op,PEM_OP,SCOM_M_ALL,CMDB_USER,TSRM-OP,EAI_MGMUser,EIPRead_A01419,OU_A01419,headoffice,CQOP,SP,AMSDP,F_DOWNLOAD,OPSEC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>FUTHING</uID>
+			<description>顏福興</description>
+			<title>二等專員</title>
+			<mail>FUTHING@tcb-bank.com.tw</mail>
+			<memberOf>EACH_IT,coeipvpn,SP_OP,OU_COEIPUSER,irod_IT_op,PEM_OP,SCOM_M_ALL,CMDB_USER,TSRM-OP,EAI_MGMUser,EIPRead_A01419,OU_A01419,headoffice,CQOP,SP,AMSDP,F_DOWNLOAD,OPSEC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>A-LAI</uID>
+			<description>賴威呈</description>
+			<title>二等專員</title>
+			<mail>A-LAI@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,MQTEAM,OU_COEIPUSER,IDM_User,CMDB_MANAGER,ciscovpn,SP_R6,SysDirR6Admins,CMDB_USER,ISWP-USR,EIPRead_A01419,EIPEditor_A01419,OU_A01419,SP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ccl</uID>
+			<description>張嘉陵</description>
+			<title>二等專員</title>
+			<mail>ccl@tcb-bank.com.tw</mail>
+			<memberOf>EACH_IT,coeipvpn,SP_OP,OU_COEIPUSER,CMDB_USER,TSRM-OP,EIPRead_A01419,OU_A01419,headoffice,SP</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>APROY</uID>
+			<description>陳金科</description>
+			<title>資深專員</title>
+			<mail>APROY@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,CMDB_MANAGER,ciscovpn,CMDB_USER,ISWP-USR,SP_CICS,EIPRead_A01419,EIPEditor_A01419,EIPMainEditor,OU_A01419,SP,AMSDP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>CCHIA</uID>
+			<description>趙汝嘉</description>
+			<title>資深專員</title>
+			<mail>CCHIA@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,ODMS_ADMIN,coeipvpn,OU_COEIPUSER,SP_NT,ODMS_SPCHR,SCCM_SYS,SysDirNtAdmins,SCOM_M_SYS,ciscovpn,SCOM_M_ALL,CMDB_USER,SCOM_Report,ISWP-USR,SCCM_SVSBRS_QRY,EIPRead_A01419,OU_A01419,SCCM_ETABSTST_QRY,SCCM_ETABS_QRY,SP,AMSDP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>CHIENWENLO</uID>
+			<description>羅健文</description>
+			<title>試用三等專員</title>
+			<mail>CHIENWENLO@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,SP_NT,CMDB_USER,ISWP-USR,EIPRead_A01419,OU_A01419,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,試用三等專員,0626,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SHERLOCK</uID>
+			<description>蘇恩平</description>
+			<title>二等專員</title>
+			<mail>SHERLOCK@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,SP_DC,OU_COEIPUSER,CMDB_MANAGER,ciscovpn,CMDB_USER,ISWP-USR,EIPRead_A01419,OU_A01419,SPDC,MNM_ETABS,SP,IP_IN,AMSDP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>dbadmin</uID>
+			<description>資料庫操作帳號*SP古育書申請</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,SQLAdmins</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>SPBRNT07</uID>
+			<description>系統科Windows組TCB海外分行管理者07</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,BRNTTeam</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>SCCMQRY</uID>
+			<description>SCCM DBReport使用帳號</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>HYS</uID>
+			<description>胡雅琇</description>
+			<title>一等專案襄理兼系統管理科副科長</title>
+			<mail>HYS@tcb-bank.com.tw</mail>
+			<memberOf>GP_A01419GMSMDM,GP_DM,GP_AGM,VDI_USER,F_DOWNLOAD_APPROVE,coeipvpn,OU_COEIPUSER,IDM_User,irod_sup,PMS_Dept,ciscovpn,SP_ADM,SCOM_M_ALL,MQM,SysDirNtMons,CMDB_USER,SysDirR6Mons,Cisco_Controller,ISWP-MGR1,EIPRead_A01419,EIPEditor_A01419,OU_A01419,headoffice,SP,F_DOWNLOAD,TECSP</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專案襄理兼系統管理科副科長,1262,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>LYNCTEST3</uID>
+			<description />
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>KUNHE</uID>
+			<description>鄭坤和</description>
+			<title>資深專員</title>
+			<mail>KUNHE@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,SP_DC,OU_COEIPUSER,ciscovpn,CMDB_USER,ISWP-USR,EIPRead_A01419,EIPEditor_A01419,OU_A01419,SPDC,MNM_ETABS,SP,IP_IN,AMSDP,F_DOWNLOAD,TECSP</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>BEN.HSUEH</uID>
+			<description>薛彥斌</description>
+			<title>四等專員</title>
+			<mail>BEN.HSUEH@tcb-bank.com.tw</mail>
+			<memberOf>EACH_IT,coeipvpn,SP_OP,OU_COEIPUSER,irod_IT_op,PEM_OP,SCOM_M_ALL,CMDB_USER,TSRM-OP,EAI_MGMUser,EIPRead_A01419,EIPEditor_A01419,OU_A01419,headoffice,CQOP,SP,AMSDP,F_DOWNLOAD,OPSEC</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,四等專員,0580,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>HYHSU</uID>
+			<description>許薰元</description>
+			<title>四等專員</title>
+			<mail>HYHSU@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,PMS_Dept,SP_NT,CMDB_MANAGER,ciscovpn,CMDB_ADMIN,SCOM_M_ALL,CMDB_USER,ISWP-USR,EIPRead_A01419,EIPEditor_A01419,OU_A01419,headoffice,SP,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,四等專員,0580,SP</info>
+			<ou>SP</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SPNT01</uID>
+			<description>系統科Windows組TCB管理者01</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,NTTEAM</memberOf>
+			<department>暫存單位</department>
+			<departmentNumber>999999</departmentNumber>
+			<info>暫存單位,999999,999999,999999,999999</info>
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>SPBRNT04</uID>
+			<description>系統科Windows組TCB海外分行管理者04</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>SP</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>PTLSERVICE</uID>
+			<description>官網伺服器陣列服務帳戶(賴建仁申請)</description>
+			<title />
+			<mail>PTLSERVICE@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,OU_A01419,Pre-Windows 2000 Compatible Access</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>MIKE</uID>
+			<description>林信宏</description>
+			<title>辦公室自動化科副科長</title>
+			<mail>MIKE@tcb-bank.com.tw</mail>
+			<memberOf>GP_A01419GMSMDM,GP_DM,VDI_USER,F_DOWNLOAD_APPROVE,coeipvpn,OU_COEIPUSER,hadms_oa_mgr,PMS_PT,irod_sup,PMS_Dept,CMDB_USER,Cisco_Controller,ISWP-MGR1,CC_OA_J_P,CC_OA_Q_Z,CC_OA_A_I,EIPEditor_A01419,OU_A01419,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,辦公室自動化科副科長,1050,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>amlemr</uID>
+			<description>AML緊急帳號*OA劉勇伸申請</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>X6041500</uID>
+			<description>張俊麒</description>
+			<title>試用二等專員</title>
+			<mail>X6041500@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,IMC_EMP,CMDB_USER,FHWFT_EMP,ISWP-USR,CC_OA_J_P,CC_OA_Q_Z,WFT_EMPLOYEE,CC_OA_A_I,OU_A01419,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,試用二等專員,0726,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>IRIS3612</uID>
+			<description>方璿茵</description>
+			<title>試用二等專員</title>
+			<mail>IRIS3612@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,CMDB_USER,ISWP-USR,CC_OA_J_P,CC_OA_Q_Z,CC_OA_A_I,OU_A01419,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,試用二等專員,0726,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ANNE36929</uID>
+			<description>楊怡華</description>
+			<title>試用二等專員</title>
+			<mail>ANNE36929@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,CMDB_USER,CC_OA_CRM,ISWP-USR,CC_OA_STOCKS,CC_OA_J_P,CC_OA_Q_Z,CC_OA_A_I,OU_A01419,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,試用二等專員,0726,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>A12365898</uID>
+			<description>紀旻秀</description>
+			<title>四等專員</title>
+			<mail>A12365898@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,irod_adm,CMDB_USER,ISWP-USR,Tuition_Admin,CC_OA_J_P,CC_OA_Q_Z,CC_OA_A_I,OU_A01419,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,四等專員,0580,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>EIPFARMADM</uID>
+			<description>企業入口網安裝程式使用者管理員帳戶(林肇國申請)</description>
+			<title />
+			<mail>EIPFARMADM@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>PTLDEPLOY</uID>
+			<description>官網程式佈署帳戶(賴建仁申請)</description>
+			<title />
+			<mail>PTLDEPLOY@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>crmad</uID>
+			<description />
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>PTLFARMADM</uID>
+			<description>官網安裝程式使用者管理員帳戶(賴建仁申請)</description>
+			<title />
+			<mail>PTLFARMADM@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>PTLADSYNC</uID>
+			<description>官網AD帳號同步帳戶(賴建仁申請)</description>
+			<title />
+			<mail>PTLADSYNC@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>EIPDEPLOY</uID>
+			<description>企業入口網程式佈署帳戶*OA賴建仁申請</description>
+			<title />
+			<mail>EIPDEPLOY@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,OU_A01419,EIPAdmins</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>WK84046</uID>
+			<description>許峰源</description>
+			<title>四等專員</title>
+			<mail>WK84046@tcb-bank.com.tw</mail>
+			<memberOf>PIMS_ADMIN,VDI_USER,coeipvpn,OU_COEIPUSER,PIRA_ADMIN,PMS_PT,PMS_Dept,CMDB_MANAGER,CMDB_ADMIN,CMDB_USER,ISWP-USR,CC_OA_J_P,CC_OA_Q_Z,WFT_EMPLOYEE,CC_OA_A_I,ClearCase,OU_A01419,HostUnit,EIPAdmins,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,四等專員,0580,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>robotuser</uID>
+			<description>智能客服系統建置供程式驗證*OA方志員申請</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SysChecker</uID>
+			<description>非合法軟體檢測程式使用帳戶*OA賴建仁申請</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,PCAdmins,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>QMUSER</uID>
+			<description>分行取號機自動登入系統*OA關志宇申請</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>TETSU</uID>
+			<description>鄭錫青</description>
+			<title>二等專員</title>
+			<mail>TETSU@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,irod_IT_ap,irod_adm,CSAdministrator,CMDB_USER,ISWP-USR,CC_OA_J_P,CC_OA_Q_Z,CC_OA_A_I,el_admin,EIPEditor_A01419,OU_A01419,headoffice,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>TIM.HUANG</uID>
+			<description>黃廷閎</description>
+			<title>四等專員</title>
+			<mail>TIM.HUANG@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,CMDB_USER,ISWP-USR,CC_OA_J_P,CC_OA_Q_Z,CC_OA_A_I,OU_A01419,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,四等專員,0580,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>WU0318</uID>
+			<description>吳岱融</description>
+			<title>三等專員</title>
+			<mail>WU0318@tcb-bank.com.tw</mail>
+			<memberOf>ORDP_IT_AP,ORDP_adm,VDI_USER,AML_ROLE_B,OU_COEIPUSER,PMS_PT,irod_IT_ap,CMDB_USER,ISWP-USR,CC_OA_J_P,CC_OA_Q_Z,CC_OA_A_I,ClearCase,OU_A01419,headoffice,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,三等專員,0660,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>EBILLTEST</uID>
+			<description>提供證券電子對帳單測試機程式收取Email回條功能-莊婉沁申請</description>
+			<title />
+			<mail>EBILLTEST@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,EIPRead_A01419,OU_A01419</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>COEIPCHECK</uID>
+			<description>監控企業入口網站運行狀態*徐仲輝申請</description>
+			<title />
+			<mail>COEIPCHECK@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>DANNYLIN</uID>
+			<description>林俊宏</description>
+			<title>二等專員</title>
+			<mail>DANNYLIN@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,PMS_Dept,CMDB_USER,CC_OA_CRM,ISWP-USR,CC_OA_STOCKS,CC_OA_J_P,CC_OA_Q_Z,CC_OA_A_I,OU_A01419,OA,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>EBILL</uID>
+			<description>提供證券電子對帳單正式機程式收取Email回條功能-莊婉沁申請</description>
+			<title />
+			<mail>EBILL@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,EIPRead_A01419,OU_A01419</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>OCSADMIN</uID>
+			<description>OCSADMIN*徐仲輝申請</description>
+			<title />
+			<mail>OCSADMIN@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,ISWP-USR,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>OASQLEMR</uID>
+			<description>OASQLEMR(徐仲輝申請)</description>
+			<title />
+			<mail>OASQLEMR@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,EIPRead_A01419,OU_A01419</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info />
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ANTONYLIU</uID>
+			<description>劉勇伸</description>
+			<title>二等專員</title>
+			<mail>ANTONYLIU@tcb-bank.com.tw</mail>
+			<memberOf>PIMS_ADMIN,VDI_USER,AML_ROLE_B,OU_COEIPUSER,PIRA_ADMIN,CMDB_USER,ISWP-USR,CC_OA_J_P,CC_OA_Q_Z,CC_OA_A_I,OU_A01419,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ALM04</uID>
+			<description>ALM系統使用</description>
+			<title />
+			<mail>ALM04@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>CP_LEE</uID>
+			<description>李佳屏</description>
+			<title>一等專員</title>
+			<mail>CP_LEE@tcb-bank.com.tw</mail>
+			<memberOf>ORDP_IT_AP,ORDP_adm,VDI_USER,coeipvpn,OU_COEIPUSER,AUDIT_HQ,irod_IT_ap,ciscovpn,IMC_EMP,CMDB_USER,ISWP-USR,CC_OA_J_P,CC_OA_Q_Z,WFT_EMPLOYEE,CC_OA_A_I,EIPEditor_A01419,OU_A01419,headoffice,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>CQSERVICE</uID>
+			<description>林肇國</description>
+			<title />
+			<mail>CQSERVICE@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ALM03</uID>
+			<description>ALM系統使用</description>
+			<title />
+			<mail>ALM03@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ALM01</uID>
+			<description>ALM系統使用</description>
+			<title />
+			<mail>ALM01@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ALM02</uID>
+			<description>ALM系統使用</description>
+			<title />
+			<mail>ALM02@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,OU_A01419</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>kpi_user</uID>
+			<description>spotfir web player DMZ區連線用*oa楊基鑫申請</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,IMC_ADM</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>NP1028</uID>
+			<description>吳建宏</description>
+			<title>二等專員</title>
+			<mail>NP1028@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,FTP_HEADOFFICE_RPT,ciscovpn,ALM_PGR,BDI_PGR,CMDB_USER,CC_OA_CRM,ISWP-USR,CC_OA_A_I,OU_A01419,OA,F_DOWNLOAD</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>impersonation</uID>
+			<description>spotfir web player 內網連線用*oa楊基鑫申請</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,IMC_ADM</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>JASONY</uID>
+			<description>楊基鑫</description>
+			<title>二等專員</title>
+			<mail>JASONY@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,FTP_HEADOFFICE_RPT,IMC_EMP,ALM_PGR,BDI_PGR,CMDB_USER,CC_OA_CRM,ISWP-USR,CC_OA_A_I,OU_A01419,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>spotfireAdmin</uID>
+			<description>spotfir server 管理用*OA楊基鑫申請</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,IMC_ADM</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>YUFFIE</uID>
+			<description>高菱徽</description>
+			<title>二等專員</title>
+			<mail>YUFFIE@tcb-bank.com.tw</mail>
+			<memberOf>ORDP_IT_AP,VDI_USER,coeipvpn,OU_COEIPUSER,irod_IT_ap,FTP_HEADOFFICE_RPT,ciscovpn,IMC_EMP,ALM_PGR,BDI_PGR,CMDB_USER,Cisco_Controller,CC_OA_CRM,ISWP-USR,CC_OA_J_P,CC_OA_A_I,OU_A01419,headoffice,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>OACML</uID>
+			<description>賴志銘</description>
+			<title>辦公室自動化科副科長</title>
+			<mail>OACML@tcb-bank.com.tw</mail>
+			<memberOf>GP_A01419GMSMDM,GP_DM,ORDP_IT_SUP,VDI_USER,F_DOWNLOAD_APPROVE,coeipvpn,OU_COEIPUSER,hadms_oa_mgr,irod_sup,FTP_HEADOFFICE_RPT,IMC_JM,ALM_PGR,BDI_PGR,CMDB_USER,ISWP-MGR1,Tuition_Admin,CC_OA_J_P,CC_OA_Q_Z,CC_OA_A_I,OA_HK,OU_A01419,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,辦公室自動化科副科長,1050,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>EMRECT</uID>
+			<description>OADB緊急User</description>
+			<title />
+			<mail />
+			<memberOf>ORDP_adm,OU_COEIPUSER,AUDIT_HQ,IMC_ADM,WFT_ADMIN,EIPRead_A01419,OU_A01419</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊處,A01419,A01419,0010,0410,三等襄理,1010,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>itfm01</uID>
+			<description>合作金庫商業銀行</description>
+			<title />
+			<mail>itfm01@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,COMeetingWM,EIPRead_A01419,OU_A01419</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊處,A01419,A01419,0010,0410,三等襄理,1010,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ACDADMIN</uID>
+			<description>ACD FOR MAIL(肇國申請)</description>
+			<title />
+			<mail>ACDADMIN@tcb-bank.com.tw</mail>
+			<memberOf>OU_COEIPUSER,EIPRead_A01419,OU_A01419</memberOf>
+			<department>資訊處</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊處,A01419,A01419,0010,0410,三等襄理,1010,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>CB12915</uID>
+			<description>方志員</description>
+			<title>二等專員</title>
+			<mail>CB12915@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,OU_COEIPUSER,CMDB_USER,ISWP-USR,CC_OA_J_P,CC_OA_Q_Z,CC_OA_A_I,OU_A01419,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>ELMORED</uID>
+			<description>黃宇睿</description>
+			<title>二等專員</title>
+			<mail>ELMORED@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,ciscovpn,CMDB_USER,ISWP-USR,CC_OA_J_P,CC_OA_Q_Z,WFT_EMPLOYEE,CC_OA_A_I,OU_A01419,EIPAdmins,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>CGLCFT</uID>
+			<description>陳朝祥</description>
+			<title>二等專員</title>
+			<mail>CGLCFT@tcb-bank.com.tw</mail>
+			<memberOf>hadms_oa_user,VDI_USER,PMS_SysMgr,ODMS_ADMIN,coeipvpn,OU_COEIPUSER,CMDB_MANAGER,CSAdministrator,CMDB_ADMIN,CMDB_USER,ISWP-USR,CC_OA_J_P,CC_OA_Q_Z,CC_OA_A_I,el_admin,OU_A01419,HostUnit,EIPAdmins,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>bomgr</uID>
+			<description>開放式報表平台*OA高菱徽申請</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>INA</uID>
+			<description>莊婉沁</description>
+			<title>一等專員</title>
+			<mail>INA@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,ciscovpn,CMDB_USER,FHWFT_EMP,ISWP-USR,CC_OA_J_P,CC_OA_Q_Z,WFT_EMPLOYEE,CC_OA_A_I,OU_A01419,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專員,0860,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>SPSCW</uID>
+			<description>施超文</description>
+			<title>一等專案襄理兼辦公室自動化科科長</title>
+			<mail>SPSCW@tcb-bank.com.tw</mail>
+			<memberOf>GP_SM,GP_A01419GMSMDM,GP_AGM,ORDP_IT_SUP,VDI_MANAGER,coeipvpn,OU_COEIPUSER,AUDIT_HQ,irod_sup,FTP_HEADOFFICE_RPT,IMC_JM,CMDB_USER,Cisco_Controller,ISWP-MGR2,CC_OA_J_P,CC_OA_Q_Z,CC_OA_A_I,OA_HK,OU_A01419,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,一等專案襄理兼辦公室自動化科科長,1282,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>JERRYLAI</uID>
+			<description>賴建仁</description>
+			<title>資深專員</title>
+			<mail>JERRYLAI@tcb-bank.com.tw</mail>
+			<memberOf>hadms_oa_user,VDI_USER,PMS_SysMgr,ODMS_ADMIN,coeipvpn,OU_COEIPUSER,ciscovpn,CMDB_USER,ISWP-USR,CC_OA_J_P,CC_OA_Q_Z,CC_OA_A_I,OU_A01419,EIPAdmins,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,資深專員,0970,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>MRJ</uID>
+			<description>江明仁</description>
+			<title>二等專員</title>
+			<mail>MRJ@tcb-bank.com.tw</mail>
+			<memberOf>VDI_USER,coeipvpn,OU_COEIPUSER,CMDB_USER,ISWP-USR,CC_OA_J_P,CC_OA_Q_Z,CC_OA_A_I,OU_A01419,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>HCW0810</uID>
+			<description>許嘉文</description>
+			<title>二等專員</title>
+			<mail>HCW0810@tcb-bank.com.tw</mail>
+			<memberOf>coeipvpn,OU_COEIPUSER,OU_A01419,OA</memberOf>
+			<department>資訊部</department>
+			<departmentNumber>A01419</departmentNumber>
+			<info>資訊部,A01419,A01419,0010,0410,二等專員,0760,OA</info>
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+		<userid>
+			<uID>AD2013EX</uID>
+			<description>供電子流程伺服器 (EIPFLOW) 新增郵件帳號之程式使用*OA陳朝祥申請</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn />
+		</userid>
+		<userid>
+			<uID>acct_tcb</uID>
+			<description>金控VPN登入密碼變更使用*OA黃士林</description>
+			<title />
+			<mail />
+			<memberOf>OU_COEIPUSER,OU_A01419,Account Operators</memberOf>
+			<department />
+			<departmentNumber />
+			<info />
+			<ou>OA</ou>
+			<GroupIn>OU_A01419</GroupIn>
+		</userid>
+	</accounts>
+	<query_result>
+		<record_count>356</record_count>
+		<record_affect>356</record_affect>
+		<time_spend>37.2220772</time_spend>
+	</query_result>
+</EIPAD> 

@@ -1,0 +1,14 @@
+SELECT TOP 1
+    FPDA.Parallels
+FROM
+    FORM_PROCESS FP
+JOIN
+    FORM_PROCESS_DETAIL_APPLY_Q FPDA
+ON
+    FP.ProcessId=FPDA.ProcessId
+WHERE
+    FP.FormType=4
+AND FP.IsEnable='Y'
+AND FP.Division='SP'
+AND FPDA.isParallel='Y'
+ORDER BY FPDA.UpdatedAt DESC

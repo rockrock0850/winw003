@@ -1,0 +1,220 @@
+package com.ebizprise.winw.project.entity;
+
+import java.util.Objects;
+
+import javax.persistence.Basic;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+import com.ebizprise.winw.project.base.entity.BaseEntity;
+
+/**
+ * @author gary.tsai 2019/6/26
+ */
+@Entity
+@Table(name = "FORM_PROCESS_DETAIL_APPLY_CHG")
+public class FormProcessDetailApplyChgEntity extends BaseEntity {
+
+    private long id;
+    private String detailId;
+    private String processId;
+    private int processOrder;
+    private String groupId;
+    private Integer nextLevel;
+    private Integer backLevel;
+    private String isSrCheckLevel;//需求單檢核關卡
+    private String isSrCCheckLevel;//需求會辦單檢核關卡
+    private String isQuestionCheckLevel;//問題單關卡
+    private String isQuestionCCheckLevel;//問題會辦單關卡
+    private String isBusinessImpactAnalysis;//衝擊分析判斷
+    private String isModifyColumnData;//是否修改欄位資料
+    private String isApprover;
+    private String isWaitForSubIssueFinish;//等待衍生單完成
+    
+    @Id
+    @Column(name = "Id")
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    public long getId() {
+        return id;
+    }
+
+    public void setId(long id) {
+        this.id = id;
+    }
+
+    @Basic
+    @Column(name = "DetailId")
+    public String getDetailId() {
+        return detailId;
+    }
+
+    public void setDetailId(String detailId) {
+        this.detailId = detailId;
+    }
+
+    @Basic
+    @Column(name = "ProcessId")
+    public String getProcessId() {
+        return processId;
+    }
+
+    public void setProcessId(String processId) {
+        this.processId = processId;
+    }
+
+    @Basic
+    @Column(name = "ProcessOrder")
+    public int getProcessOrder() {
+        return processOrder;
+    }
+
+    public void setProcessOrder(int processOrder) {
+        this.processOrder = processOrder;
+    }
+
+    @Basic
+    @Column(name = "GroupId")
+    public String getGroupId() {
+        return groupId;
+    }
+
+    public void setGroupId(String groupId) {
+        this.groupId = groupId;
+    }
+
+    @Basic
+    @Column(name = "NextLevel")
+    public Integer getNextLevel() {
+        return nextLevel;
+    }
+
+    public void setNextLevel(Integer nextLevel) {
+        this.nextLevel = nextLevel;
+    }
+
+    @Basic
+    @Column(name = "BackLevel")
+    public Integer getBackLevel() {
+        return backLevel;
+    }
+
+    public void setBackLevel(Integer backLevel) {
+        this.backLevel = backLevel;
+    }
+
+    @Basic
+    @Column(name = "IsSrCheckLevel")
+    public String getIsSrCheckLevel() {
+        return isSrCheckLevel;
+    }
+
+    public void setIsSrCheckLevel(String isSrCheckLevel) {
+        this.isSrCheckLevel = isSrCheckLevel;
+    }
+
+    @Basic
+    @Column(name = "IsSrCCheckLevel")
+    public String getIsSrCCheckLevel() {
+        return isSrCCheckLevel;
+    }
+
+    public void setIsSrCCheckLevel(String isSrCCheckLevel) {
+        this.isSrCCheckLevel = isSrCCheckLevel;
+    }
+
+    @Basic
+    @Column(name = "IsQuestionCheckLevel")
+    public String getIsQuestionCheckLevel() {
+        return isQuestionCheckLevel;
+    }
+
+    public void setIsQuestionCheckLevel(String isQuestionCheckLevel) {
+        this.isQuestionCheckLevel = isQuestionCheckLevel;
+    }
+
+    @Basic
+    @Column(name = "IsQuestionCCheckLevel")
+    public String getIsQuestionCCheckLevel() {
+        return isQuestionCCheckLevel;
+    }
+
+    public void setIsQuestionCCheckLevel(String isQuestionCCheckLevel) {
+        this.isQuestionCCheckLevel = isQuestionCCheckLevel;
+    }
+    
+    @Basic
+    @Column(name = "IsBusinessImpactAnalysis")
+    public String getIsBusinessImpactAnalysis() {
+        return isBusinessImpactAnalysis;
+    }
+
+    public void setIsBusinessImpactAnalysis(String isBusinessImpactAnalysis) {
+        this.isBusinessImpactAnalysis = isBusinessImpactAnalysis;
+    }
+    
+    @Basic
+    @Column(name = "IsModifyColumnData")
+    public String getIsModifyColumnData() {
+        return isModifyColumnData;
+    }
+
+    public void setIsModifyColumnData(String isModifyColumnData) {
+        this.isModifyColumnData = isModifyColumnData;
+    }
+
+    @Basic
+    @Column(name = "IsApprover")
+    public String getIsApprover() {
+        return isApprover;
+    }
+
+    public void setIsApprover(String isApprover) {
+        this.isApprover = isApprover;
+    }
+
+    @Basic
+    @Column(name = "IsWaitForSubIssueFinish")
+    public String getIsWaitForSubIssueFinish() {
+        return isWaitForSubIssueFinish;
+    }
+
+    public void setIsWaitForSubIssueFinish(String isWaitForSubIssueFinish) {
+        this.isWaitForSubIssueFinish = isWaitForSubIssueFinish;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) {
+            return true;
+        }
+        if (o == null || getClass() != o.getClass()) {
+            return false;
+        }
+        FormProcessDetailApplyChgEntity that = (FormProcessDetailApplyChgEntity) o;
+        return id == that.id && processOrder == that.processOrder && Objects.equals(processId, that.processId)
+                && Objects.equals(groupId, that.groupId) && Objects.equals(nextLevel, that.nextLevel) && Objects.equals(detailId, that.detailId)
+                && Objects.equals(backLevel, that.backLevel) 
+                && Objects.equals(isSrCheckLevel, that.isSrCheckLevel)
+                && Objects.equals(isSrCCheckLevel, that.isSrCCheckLevel)
+                && Objects.equals(isQuestionCheckLevel, that.isQuestionCheckLevel)
+                && Objects.equals(isQuestionCCheckLevel, that.isQuestionCCheckLevel)
+                && Objects.equals(isBusinessImpactAnalysis, that.isBusinessImpactAnalysis)
+                && Objects.equals(isModifyColumnData, that.isModifyColumnData)
+                && Objects.equals(isWaitForSubIssueFinish, that.isWaitForSubIssueFinish)
+                && Objects.equals(this.getUpdatedBy(), this.getUpdatedBy())
+                && Objects.equals(this.getUpdatedAt(), this.getUpdatedAt())
+                && Objects.equals(this.getCreatedBy(), this.getCreatedBy())
+                && Objects.equals(this.getCreatedAt(), this.getCreatedAt());
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(id, detailId, processId, processOrder, groupId, nextLevel, backLevel,isSrCheckLevel,isSrCCheckLevel,isQuestionCheckLevel,isQuestionCCheckLevel,isBusinessImpactAnalysis,isModifyColumnData,isWaitForSubIssueFinish, this.getUpdatedBy(),
+                this.getUpdatedAt(), this.getCreatedBy(), this.getCreatedAt());
+    }
+
+}

@@ -1,0 +1,222 @@
+<project xmlns:ivy="antlib:org.apache.ivy.ant" name="ISWP" default="main" basedir=".">
+	<description>
+		Create a ISWP (WAR) with Ant build script
+	</description>
+	
+	<tstamp>
+		<format property="TODAY" pattern="yyyyMMddHHmmss"  locale="zh,TW" />
+	</tstamp>
+
+	<!-- Project Structure -->
+	<property name="jdk.version" value="1.8" />
+	<property name="projectName" value="ISWP" />
+	<property name="src.dir" location="src" />
+	<property name="resources.dir" location="${src.dir}/main/resources" />
+	<property name="java.dir" location="${src.dir}/main/java" />
+	<property name="web.dir" value="${src.dir}/main/webapp" />
+	<property name="war.dir" value="war" />
+	<property name="war.classes.dir" location="${war.dir}/WEB-INF/classes" />
+	<property name="target.dir" location="target" />
+	<property name="target.temp.dir" location="target/temp" />
+	<property name="lib.dir" value="lib" />
+	<property name="customzie.lib.dir" value="${war.dir}/customize-lib" />
+	<property name="root.path" location="${basedir}/.."/>
+	<property name="build" location="build"/>
+	<property name="version" value="20190510"/>
+	<property name="env" value="_local"/>
+
+	<!-- Compile Java source from ${src.dir} and output it to ${war.dir} -->
+	<target name="compile" depends="init" description="compile source code">
+		<mkdir dir="${war.classes.dir}" />
+		<javac destdir="${war.classes.dir}" source="${jdk.version}" target="${jdk.version}"
+			debug="true" includeantruntime="false" encoding="UTF-8">
+			<classpath>
+				<fileset dir="${lib.dir}" includes="*.jar"/>
+				<fileset dir="${customzie.lib.dir}" includes="*.jar"/>
+			</classpath>
+			<src path="${src.dir}" />
+			<exclude name="**/*Test.java"/>
+			<exclude name="**/Test*.java"/>
+		</javac>
+	</target>
+
+	<!-- Copy *.xml or *.properties from ${resources.dir} to ${war.classes.dir} -->
+	<target name="copy-resources" description="copy Java resources like xml and properties files">
+		<copy todir="${war.classes.dir}">
+			<fileset dir="${resources.dir}">
+				<include name="**/*.xml" />
+				<include name="**/*.properties" />
+				<exclude name="**/datasource*.properties"/>
+				<exclude name="**/resources*.properties"/>
+				<include name="sql/" />
+			</fileset>
+		</copy>
+		<copy todir="${war.classes.dir}">
+			<fileset dir="${resources.dir}">
+				<include name="**/*${env}.properties" />
+			</fileset>
+			<mapper type="glob" from="*${env}.properties" to="*.properties"/>
+		</copy>
+		<copy todir="${war.classes.dir}">
+			<fileset dir="${java.dir}">
+				<include name="template/" />
+			</fileset>
+		</copy>
+	</target>
+
+	<target name="copy-resources-uat" description="copy Java resources like xml and properties files">
+		<copy todir="${war.classes.dir}">
+			<fileset dir="${resources.dir}">
+				<include name="**/*.xml" />
+				<include name="**/*.properties" />
+				<exclude name="**/datasource*.properties"/>
+				<exclude name="**/resources*.properties"/>
+				<include name="sql/" />
+			</fileset>
+		</copy>
+		<copy todir="${war.classes.dir}">
+			<fileset dir="${resources.dir}">
+				<include name="**/*_uat.properties" />
+			</fileset>
+			<mapper type="glob" from="*_uat.properties" to="*.properties"/>
+		</copy>
+		<copy todir="${war.classes.dir}">
+			<fileset dir="${java.dir}">
+				<include name="template/" />
+			</fileset>
+		</copy>
+	</target>
+	
+	<target name="copy-resources-pro" description="copy Java resources like xml and properties files">
+		<copy todir="${war.classes.dir}">
+			<fileset dir="${resources.dir}">
+				<include name="**/*.xml" />
+				<include name="**/*.properties" />
+				<exclude name="**/datasource*.properties"/>
+				<exclude name="**/resources*.properties"/>
+				<include name="sql/" />
+			</fileset>
+		</copy>
+		<copy todir="${war.classes.dir}">
+			<fileset dir="${resources.dir}">
+				<include name="**/*_pro.properties" />
+			</fileset>
+			<mapper type="glob" from="*_pro.properties" to="*.properties"/>
+		</copy>
+		<copy todir="${war.classes.dir}">
+			<fileset dir="${java.dir}">
+				<include name="template/" />
+			</fileset>
+		</copy>
+	</target>
+
+	<!-- Copy *.xml or *.properties from ${resources.dir} to ${war.classes.dir} -->
+	<target name="copy-resources-local" description="copy Java resources like xml and properties files">
+		<copy todir="${war.classes.dir}">
+			<fileset dir="${resources.dir}">
+				<include name="**/*.xml" />
+				<include name="**/*.properties" />
+				<include name="sql/" />
+			</fileset>
+		</copy>
+	</target>
+
+	<!-- Copy sit properties to class dir} -->
+	<target name="copy-properties" description="copy Java resources properties files by environment">
+		<copy todir="${war.classes.dir}">
+			<fileset dir="${resources.dir}">
+				<include name="**/*${env}.properties" />
+				<include name="sql/" />
+			</fileset>
+			<mapper type="glob" from="*${env}.properties" to="*.properties"/>
+		</copy>
+	</target>
+
+	<target name="set-build-version" description="change resource.properties version value">
+		<replace dir="${war.classes.dir}">
+			<include name="**/resource*.properties" />
+			<replacefilter token="build.version" value="${TODAY}" />
+		</replace>
+	</target>
+
+	<target name="set-build-version-pro" description="change resource.properties version value">
+		<replace dir="${war.classes.dir}">
+			<include name="**/resource*.properties" />
+			<replacefilter token="build.version" value="${TODAY}" />
+		</replace>
+	</target>
+
+	<!-- Create the final WAR file for deployment -->
+	<target name="package_local" depends="compile, copy-resources-local, set-build-version" description="create a war file">
+		<war destfile="${target.dir}/${projectName}.war" webxml="${web.dir}/WEB-INF/web.xml">
+			<fileset dir="${web.dir}">
+				<include name="index.jsp"/>
+			</fileset>
+			<webinf dir="${web.dir}/WEB-INF" />
+			<lib dir="${lib.dir}" />
+			<lib dir="${customzie.lib.dir}" />
+			<zipfileset dir="${war.dir}/resources" prefix="resources" />
+			<classes dir="${war.classes.dir}"/>
+		</war>
+	</target>
+	
+	<target name="package_uat" depends="compile, copy-resources-uat, set-build-version" description="create a war file">
+		<war destfile="${target.dir}/${projectName}.war" webxml="${web.dir}/WEB-INF/web.xml">
+			<fileset dir="${web.dir}">
+				<include name="index.jsp"/>
+			</fileset>
+			<webinf dir="${web.dir}/WEB-INF" />
+			<lib dir="${lib.dir}" />
+			<lib dir="${customzie.lib.dir}" />
+			<zipfileset dir="${war.dir}/resources" prefix="resources" />
+			<classes dir="${war.classes.dir}"/>
+		</war>
+	</target>
+	
+	<target name="package_pro" depends="compile, copy-resources-pro, set-build-version-pro" description="create a war file">
+		<war destfile="${target.dir}/${projectName}.war" webxml="${web.dir}/WEB-INF/web.xml">
+			<fileset dir="${web.dir}">
+				<include name="index.jsp"/>
+			</fileset>
+			<webinf dir="${web.dir}/WEB-INF" />
+			<lib dir="${lib.dir}" />
+			<lib dir="${customzie.lib.dir}" />
+			<zipfileset dir="${war.dir}/resources" prefix="resources" />
+			<classes dir="${war.classes.dir}"/>
+		</war>
+	</target>
+
+	<!-- Create the final WAR file for sit deployment -->
+	<target name="package" depends="compile, copy-resources, set-build-version" description="create a war file">
+		<war destfile="${target.dir}/${projectName}.war" webxml="${web.dir}/WEB-INF/web.xml">
+			<fileset dir="${web.dir}">
+				<include name="index.jsp"/>
+			</fileset>
+			<webinf dir="${web.dir}/WEB-INF" />
+			<lib dir="${lib.dir}" />
+			<lib dir="${customzie.lib.dir}" />
+			<zipfileset dir="${war.dir}/resources" prefix="resources" />
+			<classes dir="${war.classes.dir}"/>
+		</war>
+	</target>
+
+	<!-- Create folders -->
+	<target name="init" depends="clean">
+		<!-- Create the time stamp -->
+		<tstamp/>
+		<mkdir dir="${src.dir}" />
+		<mkdir dir="${target.dir}" />
+		<mkdir dir="${war.classes.dir}" />
+		<mkdir dir="${war.dir}/resources" />
+	</target>
+
+	<!-- Delete folders -->
+	<target name="clean" description="clean up">
+		<delete dir="${war.classes.dir}" />
+		<delete dir="${war.dir}/resources" />
+		<delete dir="${target.dir}" />
+	</target>
+
+	<target name="main" depends="package_local" />
+
+</project>

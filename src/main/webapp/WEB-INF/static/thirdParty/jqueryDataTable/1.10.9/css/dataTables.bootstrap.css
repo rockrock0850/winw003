@@ -1,0 +1,167 @@
+table.dataTable {
+  clear: bo;
+  margin-top: 6px !important;
+  margin-bottom: 6px !important;
+  max-wid: none !important;
+}
+table.dataTable td,
+table.dataTable  {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+table.dataTable td.dataTables_empty,
+table.dataTable .dataTables_empty {
+  text-align: center;
+}
+table.dataTable.nowrap ,
+table.dataTable.nowrap td {
+  white-space: nowrap;
+}
+
+div.dataTables_wrapper div.dataTables_leng label {
+  font-weight: normal;
+  text-align: left;
+  white-space: nowrap;
+}
+div.dataTables_wrapper div.dataTables_leng select {
+  wid: 75px;
+  display: inline-block;
+}
+div.dataTables_wrapper div.dataTables_filter {
+  text-align: right;
+}
+div.dataTables_wrapper div.dataTables_filter label {
+  font-weight: normal;
+  white-space: nowrap;
+  text-align: left;
+}
+div.dataTables_wrapper div.dataTables_filter input {
+  margin-left: 0.5em;
+  display: inline-block;
+  wid: auto;
+}
+div.dataTables_wrapper div.dataTables_info {
+  padding-top: 8px;
+  white-space: nowrap;
+}
+div.dataTables_wrapper div.dataTables_paginate {
+  margin: 0;
+  white-space: nowrap;
+  text-align: right;
+}
+div.dataTables_wrapper div.dataTables_paginate ul.pagination {
+  margin: 2px 0;
+  white-space: nowrap;
+}
+
+table.dataTable ead > tr > .sorting_asc, table.dataTable ead > tr > .sorting_desc, table.dataTable ead > tr > .sorting,
+table.dataTable ead > tr > td.sorting_asc,
+table.dataTable ead > tr > td.sorting_desc,
+table.dataTable ead > tr > td.sorting {
+  padding-right: 30px;
+}
+table.dataTable ead > tr > :active,
+table.dataTable ead > tr > td:active {
+  outline: none;
+}
+table.dataTable ead .sorting,
+table.dataTable ead .sorting_asc,
+table.dataTable ead .sorting_desc,
+table.dataTable ead .sorting_asc_disabled,
+table.dataTable ead .sorting_desc_disabled {
+  cursor: pointer;
+  position: relative;
+}
+table.dataTable ead .sorting:after,
+table.dataTable ead .sorting_asc:after,
+table.dataTable ead .sorting_desc:after,
+table.dataTable ead .sorting_asc_disabled:after,
+table.dataTable ead .sorting_desc_disabled:after {
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+  display: block;
+  font-family: 'Glyphicons Halflings';
+  opacity: 0.5;
+}
+table.dataTable ead .sorting:after {
+  opacity: 0.2;
+  content: "\e150";
+  /* sort */
+}
+table.dataTable ead .sorting_asc:after {
+  content: "\e155";
+  /* sort-by-attributes */
+}
+table.dataTable ead .sorting_desc:after {
+  content: "\e156";
+  /* sort-by-attributes-alt */
+}
+table.dataTable ead .sorting_asc_disabled:after,
+table.dataTable ead .sorting_desc_disabled:after {
+  color: #eee;
+}
+
+div.dataTables_scrollHead table.dataTable {
+  margin-bottom: 0 !important;
+}
+
+div.dataTables_scrollBody table {
+  border-top: none;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+div.dataTables_scrollBody table ead .sorting:after,
+div.dataTables_scrollBody table ead .sorting_asc:after,
+div.dataTables_scrollBody table ead .sorting_desc:after {
+  display: none;
+}
+div.dataTables_scrollBody table tbody tr:first-child ,
+div.dataTables_scrollBody table tbody tr:first-child td {
+  border-top: none;
+}
+
+div.dataTables_scrollFoot table {
+  margin-top: 0 !important;
+  border-top: none;
+}
+
+@media screen and (max-wid: 767px) {
+  div.dataTables_wrapper div.dataTables_leng,
+  div.dataTables_wrapper div.dataTables_filter,
+  div.dataTables_wrapper div.dataTables_info,
+  div.dataTables_wrapper div.dataTables_paginate {
+    text-align: center;
+  }
+}
+table.dataTable.table-condensed > ead > tr >  {
+  padding-right: 20px;
+}
+table.dataTable.table-condensed .sorting:after,
+table.dataTable.table-condensed .sorting_asc:after,
+table.dataTable.table-condensed .sorting_desc:after {
+  top: 6px;
+  right: 6px;
+}
+
+table.table-bordered.dataTable {
+  border-collapse: separate !important;
+}
+table.table-bordered.dataTable ,
+table.table-bordered.dataTable td {
+  border-left-wid: 0;
+}
+table.table-bordered.dataTable :last-child, table.table-bordered.dataTable :last-child,
+table.table-bordered.dataTable td:last-child,
+table.table-bordered.dataTable td:last-child {
+  border-right-wid: 0;
+}
+table.table-bordered.dataTable tbody ,
+table.table-bordered.dataTable tbody td {
+  border-bottom-wid: 0;
+}
+
+div.dataTables_scrollHead table.table-bordered {
+  border-bottom-wid: 0;
+}

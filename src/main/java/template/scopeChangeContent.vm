@@ -1,0 +1,17 @@
+<html>
+<EIPADVO>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</EIPADVO>
+<body>
+親愛的 $recipient 您好：</br></br>
+$formId 會辦單 ，</br>
+ 表單摘要：$summary</br>
+經 $modifyUserName 異動預計完成日</br>
+預計變更完成時間：$sysTime</br>
+審核意見：$verifyComment</br></br>
+
+前往處理表單<a href="$link">$link</a></br></br>
+ISWP系統管理員 敬上</br></br>
+本信件是由ISWP系統自動寄發，請勿直接回覆
+</body>
+</html>

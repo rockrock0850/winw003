@@ -1,0 +1,14 @@
+WITH CTE AS (
+SELECT Id, FormId, SourceId, FormClass, FormStatus FROM FORM WHERE FormId = :formId
+UNION ALL
+SELECT F.Id, F.FormId, F.SourceId, F.FormClass, F.FormStatus FROM FORM F JOIN CTE ON F.SourceId = CTE.FormId
+)
+
+SELECT
+	CTE.*,
+	FJID.ACT,
+	FJID.SCT
+FROM 
+	CTE
+INNER JOIN FORM_JOB_INFO_DATE FJID ON CTE.FormId = FJID.FormId 
+ORDER BY Id;

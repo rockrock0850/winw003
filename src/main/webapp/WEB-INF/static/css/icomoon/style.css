@@ -1,0 +1,138 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?11xsic');
+	src:url('fonts/icomoon.eot?11xsic#iefix') format('embedded-opentype'),
+		url('fonts/icomoon.ttf?11xsic') format('truetype'),
+		url('fonts/icomoon.woff?11xsic') format('woff'),
+		url('fonts/icomoon.svg?11xsic#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'icomoon' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-calculator:before {
+	content: "\e904";
+}
+.icon-warning:before {
+	content: "\e905";
+}
+.icon-import:before {
+	content: "\e903";
+}
+.icon-copy:before {
+	content: "\e902";
+}
+.icon-refresh:before {
+	content: "\e901";
+}
+.icon-info:before {
+	content: "\e900";
+}
+.icon-book:before {
+	content: "\e61e";
+}
+.icon-collapse:before {
+	content: "\e61c";
+}
+.icon-expand:before {
+	content: "\e61d";
+}
+.icon-start:before {
+	content: "\e61b";
+}
+.icon-apply:before {
+	content: "\e613";
+}
+.icon-export:before {
+	content: "\e614";
+}
+.icon-batch:before {
+	content: "\e615";
+}
+.icon-upload-file:before {
+	content: "\e616";
+}
+.icon-upload:before {
+	content: "\e617";
+}
+.icon-org:before {
+	content: "\e618";
+}
+.icon-user:before {
+	content: "\e619";
+}
+.icon-stop:before {
+	content: "\e61a";
+}
+.icon-check:before {
+	content: "\e610";
+}
+.icon-setting:before {
+	content: "\e611";
+}
+.icon-close:before {
+	content: "\e60f";
+}
+.icon-msg:before {
+	content: "\e60e";
+}
+.icon-msg-o:before {
+	content: "\e60d";
+}
+.icon-calendar:before {
+	content: "\e60c";
+}
+.icon-back:before {
+	content: "\e60b";
+}
+.icon-switch:before {
+	content: "\e60a";
+}
+.icon-pager-last:before {
+	content: "\e606";
+}
+.icon-pager-next:before {
+	content: "\e607";
+}
+.icon-pager-first:before {
+	content: "\e608";
+}
+.icon-pager-prev:before {
+	content: "\e609";
+}
+.icon-edit:before {
+	content: "\e605";
+}
+.icon-save:before {
+	content: "\e604";
+}
+.icon-search:before {
+	content: "\e600";
+}
+.icon-add:before {
+	content: "\e601";
+}
+.icon-delete:before {
+	content: "\e602";
+}
+.icon-login:before {
+	content: "\e612";
+}
+.icon-logout:before {
+	content: "\e603";
+}
+

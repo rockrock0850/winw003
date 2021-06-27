@@ -1,0 +1,17 @@
+<html>
+<EIPADVO>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</EIPADVO>
+<body>
+$formClass $formIdTitle &nbsp;$notifyType $limit，請儘快處理。</br>
+編號 : $formId</br>
+開單時間 : $creatTime</br>
+經辦 : $pic</br>
+預計完成時間 : $ect</br>
+簡述 : $summary</br>
+詳述 : </br>
+$content</br></br>
+前往表單$url</br>
+ISWP系統管理員 敬上
+</body>
+</html>

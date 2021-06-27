@@ -1,0 +1,1 @@
+SELECT * FROM FORM_PROCESS_DETAIL_APPLY_JOB WHERE DetailId = :detailId AND (ProcessOrder > :startLevel AND ProcessOrder <= :endedLevel) AND ISNULL(WorkProject, '') <> :workProject
